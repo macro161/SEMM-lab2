@@ -2,6 +2,8 @@
 \defcounter {refsection}{0}\relax 
 \selectlanguage *{lithuanian}
 \defcounter {refsection}{0}\relax 
+\selectlanguage *{english}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.}NFR type catalogue}{2}{section.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.}Modelling of the non-functional requirements}{4}{section.2}%

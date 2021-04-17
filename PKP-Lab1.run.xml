@@ -61,6 +61,8 @@
       <file>alphabetic.cbx</file>
       <file>trad-alpha.cbx</file>
       <file>biblatex.cfg</file>
+      <file>english.lbx</file>
+      <file>american.lbx</file>
       <file>lithuanian.lbx</file>
     </requires>
   </internal>
