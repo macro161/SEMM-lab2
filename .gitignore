@@ -7,3 +7,11 @@
 *.run.xml
 *.synctex.gz
 *.toc
+*.pdf
+*.out
+*.log
+*.bcf
+*.aux
+*.xml
+*.gz
+*.toc
