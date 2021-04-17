@@ -69,6 +69,7 @@
 \newcommand{\status}[1]{\def\@status{#1}}
 \newcommand{\titleineng}[1]{\def\@titleineng{#1}}
 \newcommand{\secondauthor}[1]{\def\@secondauthor{#1}}
+\newcommand{\thirdauthor}[1]{\def\@thirdauthor{#1}}
 
 % Pirmos eilutės paragrafe atitraukimas 1 cm
 \setlength{\parindent}{1cm}
@@ -131,9 +132,9 @@
         \large
         \singlespacing
         {\begin{tabular}[t]{l l}%
-        \medskip Atliko: &\; \@status \\
-        \medskip\bigskip   &\; \@author \hfill \@signatureplace \\
-        \bigskip Darbo vadovas: &\; \@supervisor \hfill  \@signatureplace \\
+        \medskip Team: &\; \@status \\
+        \medskip\bigskip   &\; \@author \hfill  \\
+        \bigskip Supervisor: &\; \@supervisor \hfill   \\
         % Recenzentas: &\; \@reviewer \hfill \@signatureplace
         \end{tabular} \par}%
      \end{flushright}
@@ -144,10 +145,11 @@
         \large
         \singlespacing
         {\begin{tabular}[t]{l l}%
-        \medskip Atliko: &\; \@status \\
-        \bigskip   &\; \@author \hfill \@signatureplace \\
-        \medskip\bigskip &\; \@secondauthor \hfill \@signatureplace \\
-        \bigskip Darbo vadovas: &\; \@supervisor \hfill  \@signatureplace \\
+        \medskip Team: &\; \@status \\
+        \bigskip   &\; \@author \hfill  \\
+        \medskip\bigskip &\; \@secondauthor \hfill  \\
+        \medskip\bigskip &\; \@thirdauthor \hfill  \\        
+        \bigskip Supervisor: &\; \@supervisor \hfill   \\
         % Recenzentas: &\; \@reviewer \hfill \@signatureplace
         \end{tabular} \par}%
      \end{flushright}
