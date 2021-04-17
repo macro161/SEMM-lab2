@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.17)  17 APR 2021 16:22
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.17)  17 APR 2021 16:45
 entering extended mode
 **./PKP-Lab1.tex
 (PKP-Lab1.tex
@@ -1650,23 +1650,23 @@ Overfull \hbox (0.89041pt too wide) in paragraph at lines 51--52
 
 [2
 
-] [3] [4
+] [3
 
-] [5
+] [4
 
 ]
-Underfull \hbox (badness 6284) in paragraph at lines 79--79
+Underfull \hbox (badness 6284) in paragraph at lines 71--71
 []\TU/texgyretermes(0)/b/n/17.28 Detecting and modelling of implicit interdepen
 dencies
  []
 
-[6
+[5
+
+] [6
 
 ] [7
 
 ] [8
-
-] [9
 
 ]
 The property list \polyglossia@langsetup contains the pairs (without outer
@@ -1719,7 +1719,7 @@ braces):
 >  {english/babelname}  =>  {american}
 >  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
- [10
+ [9
 
 ] (PKP-Lab1.aux
 LaTeX Info: Redefining \rmfamily on input line 23.
@@ -1738,10 +1738,10 @@ Package logreq Info: Writing requests to 'PKP-Lab1.run.xml'.
 Here is how much of TeX's memory you used:
  35328 strings out of 412095
  697400 string characters out of 2846630
- 1500207 words of memory out of 3000000
+ 1501207 words of memory out of 3000000
  54417 multiletter control sequences out of 15000+200000
  416716 words of font info for 94 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  119i,11n,141p,743b,5376s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on PKP-Lab1.pdf (11 pages).
+Output written on PKP-Lab1.pdf (10 pages).
