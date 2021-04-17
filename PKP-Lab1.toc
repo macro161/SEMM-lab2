@@ -1,19 +1,19 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\select@language {lithuanian}
+\selectlanguage *{lithuanian}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.}NFR type catalogue}{2}{section.1}
+\contentsline {section}{\numberline {1.}NFR type catalogue}{2}{section.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.}Modelling of the non-functional requirements}{3}{section.2}
+\contentsline {section}{\numberline {2.}Modelling of the non-functional requirements}{4}{section.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.}Identifying and modelling of possible operationalizations for NFR}{4}{section.3}
+\contentsline {section}{\numberline {3.}Identifying and modelling of possible operationalizations for NFR}{5}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.}Detecting and modelling of implicit interdependencies among NFR}{5}{section.4}
+\contentsline {section}{\numberline {4.}Detecting and modelling of implicit interdependencies among NFR}{6}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.}Chosen operationalizations}{6}{section.5}
+\contentsline {section}{\numberline {5.}Chosen operationalizations}{7}{section.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.}Strategic rationale model}{7}{section.6}
+\contentsline {section}{\numberline {6.}Strategic rationale model}{8}{section.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.}Conclusions about an actor dependency}{8}{section.7}
+\contentsline {section}{\numberline {7.}Conclusions about an actor dependency}{9}{section.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Conclusions}{9}{section*.2}
+\contentsline {section}{Conclusions}{10}{section*.3}%

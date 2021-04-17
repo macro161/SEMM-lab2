@@ -53,6 +53,7 @@
       <file>blx-dm.def</file>
       <file>blx-unicode.def</file>
       <file>blx-compat.def</file>
+      <file>blx-case-expl3.def</file>
       <file>biblatex.def</file>
       <file>standard.bbx</file>
       <file>trad-standard.bbx</file>
@@ -60,7 +61,6 @@
       <file>alphabetic.cbx</file>
       <file>trad-alpha.cbx</file>
       <file>biblatex.cfg</file>
-      <file>english.lbx</file>
       <file>lithuanian.lbx</file>
     </requires>
   </internal>
