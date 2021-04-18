@@ -1,111 +1,114 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.17)  18 APR 2021 20:01
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.7) (preloaded format=xelatex 2020.9.3)  18 APR 2021 20:15
 entering extended mode
 **./PKP-Lab1.tex
 (PKP-Lab1.tex
-LaTeX2e <2020-10-01> patch level 2
-L3 programming layer <2020-12-07> xparse <2020-03-03> (VUMIFPSkursinis.cls
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-08-07> (VUMIFPSkursinis.cls
 Document Class: VUMIFPSkursinis 2015/02/03 1.0 VU MIF SE course work class
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count173
-\c@section=\count174
-\c@subsection=\count175
-\c@subsubsection=\count176
-\c@paragraph=\count177
-\c@subparagraph=\count178
-\c@figure=\count179
-\c@table=\count180
+\c@part=\count164
+\c@section=\count165
+\c@subsection=\count166
+\c@subsubsection=\count167
+\c@paragraph=\count168
+\c@subparagraph=\count169
+\c@figure=\count170
+\c@table=\count171
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
-)
-(LTPlius.sty
+\bibindent=\dimen134
+) (LTPlius.sty
 Package: LTPlius 2014/12/24 1.4.0 Lithuanian language additions
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\polygloss
-ia.sty
-Package: polyglossia 2020/12/08 v1.51 Modern multilingual typesetting with XeLa
+("C:\Program Files\MiKTeX\tex/latex/polyglossia\polyglossia.sty"
+Package: polyglossia 2020/04/08 v1.49 Modern multilingual typesetting with XeLa
 TeX and LuaLaTeX
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count181
+("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2020/08/24 v2.5j e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count172
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/makecmds\makecmds.sty
+("C:\Program Files\MiKTeX\tex/latex/makecmds\makecmds.sty"
 Package: makecmds 2009/09/03 v1.0a extra command making commands
-) (C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+)
+("C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
-
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.te
-x
+("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex"
 \XKV@toks=\toks15
 \XKV@tempa@toks=\toks16
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex)
-)
-\XKV@depth=\count182
+("C:\Program Files\MiKTeX\tex/generic/xkeyval\keyval.tex"))
+\XKV@depth=\count173
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+("C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec.sty"
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty"
+("C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2020-08-07 L3 programming layer (loader) 
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpa
-rse.sty
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2020-12-07 L3 programming layer (loader) 
-
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-x
-etex.def
-File: l3backend-xetex.def 2020-09-24 L3 backend support: XeTeX
-\g__graphics_track_int=\count183
-\l__pdf_internal_box=\box47
-\g__pdf_backend_object_int=\count184
-\g__pdf_backend_annotation_int=\count185
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-xdvipdfmx.def"
+File: l3backend-xdvipdfmx.def 2020-08-07 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count174
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count175
+\g__pdf_backend_annotation_int=\count176
 ))
-Package: xparse 2020-10-27 L3 Experimental document command parser
+Package: xparse 2020-05-15 L3 Experimental document command parser
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpa
-rse-generic.tex))
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex"
+\l__xparse_current_arg_int=\count177
+\g__xparse_grabber_int=\count178
+\l__xparse_m_args_int=\count179
+\l__xparse_v_nesting_int=\count180
+))
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xet
-ex.sty
+("C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec-xetex.sty"
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count186
-\l__fontspec_language_int=\count187
-\l__fontspec_strnum_int=\count188
-\l__fontspec_tmp_int=\count189
-\l__fontspec_tmpa_int=\count190
-\l__fontspec_tmpb_int=\count191
-\l__fontspec_tmpc_int=\count192
-\l__fontspec_em_int=\count193
-\l__fontspec_emdef_int=\count194
-\l__fontspec_strong_int=\count195
-\l__fontspec_strongdef_int=\count196
-\l__fontspec_tmpa_dim=\dimen139
-\l__fontspec_tmpb_dim=\dimen140
-\l__fontspec_tmpc_dim=\dimen141
+\l__fontspec_script_int=\count181
+\l__fontspec_language_int=\count182
+\l__fontspec_strnum_int=\count183
+\l__fontspec_tmp_int=\count184
+\l__fontspec_tmpa_int=\count185
+\l__fontspec_tmpb_int=\count186
+\l__fontspec_tmpc_int=\count187
+\l__fontspec_em_int=\count188
+\l__fontspec_emdef_int=\count189
+\l__fontspec_strong_int=\count190
+\l__fontspec_strongdef_int=\count191
+\l__fontspec_tmpa_dim=\dimen135
+\l__fontspec_tmpb_dim=\dimen136
+\l__fontspec_tmpc_dim=\dimen137
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+("C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg
-))) (C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+("C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec.cfg")))
+("C:\Program Files\MiKTeX\tex/generic/iftex\ifluatex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
 Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+("C:\Program Files\MiKTeX\tex/generic/iftex\ifxetex.sty"
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l
-3keys2e.sty
-Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+("C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty"
+Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
+)
+("C:\Program Files\MiKTeX\tex/latex/filehook\filehook.sty"
+Package: filehook 2020/02/03 v0.7 Hooks for input files
 )
 \xpg@normalclass=\XeTeXcharclass1
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-lat
-ex.ldf
+("C:\Program Files\MiKTeX\tex/latex/polyglossia\gloss-latex.ldf"
 File: gloss-latex.ldf polyglossia: module for default language
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
@@ -128,8 +131,7 @@ braces):
 )
 Package polyglossia Info: Default language is latex.
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-lit
-huanian.ldf
+("C:\Program Files\MiKTeX\tex/latex/polyglossia\gloss-lithuanian.ldf"
 File: gloss-lithuanian.ldf polyglossia: module for lithuanian
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
@@ -168,8 +170,7 @@ braces):
 )
 Package polyglossia Info: Default language is lithuanian.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-eng
-lish.ldf
+("C:\Program Files\MiKTeX\tex/latex/polyglossia\gloss-english.ldf"
 File: gloss-english.ldf polyglossia: module for english
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
@@ -223,27 +224,29 @@ braces):
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
 Package polyglossia Info: Option: English, variant=american.
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+("C:\Program Files\MiKTeX\tex/latex/tools\indentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-) (C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/was\icomma.sty
+)
+("C:\Program Files\MiKTeX\tex/latex/was\icomma.sty"
 Package: icomma 2002/03/10 v2.0 (WaS)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
-Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+("C:\Program Files\MiKTeX\tex/latex/caption\caption.sty"
+Package: caption 2020/05/30 v3.4k Customizing captions (AR)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
-Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen142
-\captionmargin@=\dimen143
-\captionwidth=\dimen144
-\caption@tempdima=\dimen145
-\caption@indent=\dimen146
-\caption@parindent=\dimen147
-\caption@hangindent=\dimen148
+("C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty"
+Package: caption3 2020/07/20 v1.12b caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen138
+\captionmargin@=\dimen139
+\captionwidth=\dimen140
+\caption@tempdima=\dimen141
+\caption@indent=\dimen142
+\caption@parindent=\dimen143
+\caption@hangindent=\dimen144
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count197
-\c@continuedfloat=\count198
+\c@caption@flags=\count192
+\c@continuedfloat=\count193
 ))
 
 Package fontspec Info: Font family 'texgyretermes(0)' created for font
@@ -282,30 +285,30 @@ ge=dflt;mapping=tex-text;"
 ge=dflt;+smcp;mapping=tex-text;"
 
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+("C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+("C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty"
 Package: geometry 2020/01/02 v5.9 Page Geometry
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+
+("C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count199
-\Gm@cntv=\count266
-\c@Gm@tempcnt=\count267
-\Gm@bindingoffset=\dimen149
-\Gm@wd@mp=\dimen150
-\Gm@odd@mp=\dimen151
-\Gm@even@mp=\dimen152
-\Gm@layoutwidth=\dimen153
-\Gm@layoutheight=\dimen154
-\Gm@layouthoffset=\dimen155
-\Gm@layoutvoffset=\dimen156
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen145
+\Gm@wd@mp=\dimen146
+\Gm@odd@mp=\dimen147
+\Gm@even@mp=\dimen148
+\Gm@layoutwidth=\dimen149
+\Gm@layoutheight=\dimen150
+\Gm@layouthoffset=\dimen151
+\Gm@layoutvoffset=\dimen152
 \Gm@dimlist=\toks17
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/xelatex/xetexconfig\geometr
-y.cfg))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+("C:\Program Files\MiKTeX\tex/xelatex/xetexconfig\geometry.cfg"))
+("C:\Program Files\MiKTeX\tex/latex/tocloft\tocloft.sty"
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
 \cftparskip=\skip49
@@ -334,15 +337,15 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cftbeforefigskip=\skip72
 \cftfigindent=\skip73
 \cftfignumwidth=\skip74
-\c@lofdepth=\count268
-\c@lotdepth=\count269
+\c@lofdepth=\count197
+\c@lotdepth=\count198
 \cftbeforelottitleskip=\skip75
 \cftafterlottitleskip=\skip76
 \cftbeforetabskip=\skip77
 \cfttabindent=\skip78
 \cfttabnumwidth=\skip79
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+("C:\Program Files\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty"
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip80
@@ -354,113 +357,110 @@ s
 \f@nch@O@erf=\skip86
 \f@nch@O@olf=\skip87
 \f@nch@O@orf=\skip88
-) (C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/silence\silence.sty
+)
+("C:\Program Files\MiKTeX\tex/latex/silence\silence.sty"
 Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error mes
 sages
-\sl@Save=\count270
-\sl@StateNumber=\count271
-\sl@MessageCount=\count272
-\sl@Casualties=\count273
+\sl@Save=\count199
+\sl@StateNumber=\count266
+\sl@MessageCount=\count267
+\sl@Casualties=\count268
 \sl@Filter=\toks18
 \sl@Message=\toks19
 \sl@UnexpandedMessage=\toks20
 \sl@Mess@ge=\toks21
-\sl@WarningCount=\count274
-\sl@WarningNumber=\count275
-\sl@WarningCasualties=\count276
+\sl@WarningCount=\count269
+\sl@WarningNumber=\count270
+\sl@WarningCasualties=\count271
 \sl@TempBOW=\toks22
 \sl@BankOfWarnings=\toks23
 LaTeX Info: Redefining \GenericWarning on input line 433.
-\sl@ErrorCount=\count277
-\sl@ErrorNumber=\count278
-\sl@ErrorCasualties=\count279
+\sl@ErrorCount=\count272
+\sl@ErrorNumber=\count273
+\sl@ErrorCasualties=\count274
 \sl@TempBOE=\toks24
 \sl@BankOfErrors=\toks25
 LaTeX Info: Redefining \GenericError on input line 601.
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+("C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty"
 Package: biblatex 2020/08/23 v3.15a programmable bibliographies (PK/MW)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
-ds.sty
+("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
-.sty
+("C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty"
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+("C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
-ty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+("C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys
-.sty
+("C:\Program Files\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty"
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+("C:\Program Files\MiKTeX\tex/latex/logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count280
+\lrq@indent=\count275
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+("C:\Program Files\MiKTeX\tex/latex/logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+("C:\Program Files\MiKTeX\tex/latex/url\url.sty"
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count281
-\c@listtotal=\count282
-\c@listcount=\count283
-\c@liststart=\count284
-\c@liststop=\count285
-\c@citecount=\count286
-\c@citetotal=\count287
-\c@multicitecount=\count288
-\c@multicitetotal=\count289
-\c@instcount=\count290
-\c@maxnames=\count291
-\c@minnames=\count292
-\c@maxitems=\count293
-\c@minitems=\count294
-\c@citecounter=\count295
-\c@maxcitecounter=\count296
-\c@savedcitecounter=\count297
-\c@uniquelist=\count298
-\c@uniquename=\count299
-\c@refsection=\count300
-\c@refsegment=\count301
-\c@maxextratitle=\count302
-\c@maxextratitleyear=\count303
-\c@maxextraname=\count304
-\c@maxextradate=\count305
-\c@maxextraalpha=\count306
-\c@abbrvpenalty=\count307
-\c@highnamepenalty=\count308
-\c@lownamepenalty=\count309
-\c@maxparens=\count310
-\c@parenlevel=\count311
-\blx@tempcnta=\count312
-\blx@tempcntb=\count313
-\blx@tempcntc=\count314
-\blx@maxsection=\count315
-\blx@maxsegment@0=\count316
-\blx@notetype=\count317
-\blx@parenlevel@text=\count318
-\blx@parenlevel@foot=\count319
-\blx@sectionciteorder@0=\count320
-\blx@entrysetcounter=\count321
-\blx@biblioinstance=\count322
+\c@tabx@nest=\count276
+\c@listtotal=\count277
+\c@listcount=\count278
+\c@liststart=\count279
+\c@liststop=\count280
+\c@citecount=\count281
+\c@citetotal=\count282
+\c@multicitecount=\count283
+\c@multicitetotal=\count284
+\c@instcount=\count285
+\c@maxnames=\count286
+\c@minnames=\count287
+\c@maxitems=\count288
+\c@minitems=\count289
+\c@citecounter=\count290
+\c@maxcitecounter=\count291
+\c@savedcitecounter=\count292
+\c@uniquelist=\count293
+\c@uniquename=\count294
+\c@refsection=\count295
+\c@refsegment=\count296
+\c@maxextratitle=\count297
+\c@maxextratitleyear=\count298
+\c@maxextraname=\count299
+\c@maxextradate=\count300
+\c@maxextraalpha=\count301
+\c@abbrvpenalty=\count302
+\c@highnamepenalty=\count303
+\c@lownamepenalty=\count304
+\c@maxparens=\count305
+\c@parenlevel=\count306
+\blx@tempcnta=\count307
+\blx@tempcntb=\count308
+\blx@tempcntc=\count309
+\blx@maxsection=\count310
+\blx@maxsegment@0=\count311
+\blx@notetype=\count312
+\blx@parenlevel@text=\count313
+\blx@parenlevel@foot=\count314
+\blx@sectionciteorder@0=\count315
+\blx@entrysetcounter=\count316
+\blx@biblioinstance=\count317
 \labelnumberwidth=\skip89
 \labelalphawidth=\skip90
 \biblabelsep=\skip91
@@ -472,87 +472,87 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language79
-\c@mincomprange=\count323
-\c@maxcomprange=\count324
-\c@mincompwidth=\count325
+\c@mincomprange=\count318
+\c@maxcomprange=\count319
+\c@mincompwidth=\count320
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-dm.def"
 File: blx-dm.def 2020/08/23 v3.15a biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'trad-alpha.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count326
-\c@savedafterword=\count327
-\c@annotator=\count328
-\c@savedannotator=\count329
-\c@author=\count330
-\c@savedauthor=\count331
-\c@bookauthor=\count332
-\c@savedbookauthor=\count333
-\c@commentator=\count334
-\c@savedcommentator=\count335
-\c@editor=\count336
-\c@savededitor=\count337
-\c@editora=\count338
-\c@savededitora=\count339
-\c@editorb=\count340
-\c@savededitorb=\count341
-\c@editorc=\count342
-\c@savededitorc=\count343
-\c@foreword=\count344
-\c@savedforeword=\count345
-\c@holder=\count346
-\c@savedholder=\count347
-\c@introduction=\count348
-\c@savedintroduction=\count349
-\c@namea=\count350
-\c@savednamea=\count351
-\c@nameb=\count352
-\c@savednameb=\count353
-\c@namec=\count354
-\c@savednamec=\count355
-\c@translator=\count356
-\c@savedtranslator=\count357
-\c@shortauthor=\count358
-\c@savedshortauthor=\count359
-\c@shorteditor=\count360
-\c@savedshorteditor=\count361
-\c@labelname=\count362
-\c@savedlabelname=\count363
-\c@institution=\count364
-\c@savedinstitution=\count365
-\c@lista=\count366
-\c@savedlista=\count367
-\c@listb=\count368
-\c@savedlistb=\count369
-\c@listc=\count370
-\c@savedlistc=\count371
-\c@listd=\count372
-\c@savedlistd=\count373
-\c@liste=\count374
-\c@savedliste=\count375
-\c@listf=\count376
-\c@savedlistf=\count377
-\c@location=\count378
-\c@savedlocation=\count379
-\c@organization=\count380
-\c@savedorganization=\count381
-\c@origlocation=\count382
-\c@savedoriglocation=\count383
-\c@origpublisher=\count384
-\c@savedorigpublisher=\count385
-\c@publisher=\count386
-\c@savedpublisher=\count387
-\c@language=\count388
-\c@savedlanguage=\count389
-\c@origlanguage=\count390
-\c@savedoriglanguage=\count391
-\c@pageref=\count392
-\c@savedpageref=\count393
+\c@afterword=\count321
+\c@savedafterword=\count322
+\c@annotator=\count323
+\c@savedannotator=\count324
+\c@author=\count325
+\c@savedauthor=\count326
+\c@bookauthor=\count327
+\c@savedbookauthor=\count328
+\c@commentator=\count329
+\c@savedcommentator=\count330
+\c@editor=\count331
+\c@savededitor=\count332
+\c@editora=\count333
+\c@savededitora=\count334
+\c@editorb=\count335
+\c@savededitorb=\count336
+\c@editorc=\count337
+\c@savededitorc=\count338
+\c@foreword=\count339
+\c@savedforeword=\count340
+\c@holder=\count341
+\c@savedholder=\count342
+\c@introduction=\count343
+\c@savedintroduction=\count344
+\c@namea=\count345
+\c@savednamea=\count346
+\c@nameb=\count347
+\c@savednameb=\count348
+\c@namec=\count349
+\c@savednamec=\count350
+\c@translator=\count351
+\c@savedtranslator=\count352
+\c@shortauthor=\count353
+\c@savedshortauthor=\count354
+\c@shorteditor=\count355
+\c@savedshorteditor=\count356
+\c@labelname=\count357
+\c@savedlabelname=\count358
+\c@institution=\count359
+\c@savedinstitution=\count360
+\c@lista=\count361
+\c@savedlista=\count362
+\c@listb=\count363
+\c@savedlistb=\count364
+\c@listc=\count365
+\c@savedlistc=\count366
+\c@listd=\count367
+\c@savedlistd=\count368
+\c@liste=\count369
+\c@savedliste=\count370
+\c@listf=\count371
+\c@savedlistf=\count372
+\c@location=\count373
+\c@savedlocation=\count374
+\c@organization=\count375
+\c@savedorganization=\count376
+\c@origlocation=\count377
+\c@savedoriglocation=\count378
+\c@origpublisher=\count379
+\c@savedorigpublisher=\count380
+\c@publisher=\count381
+\c@savedpublisher=\count382
+\c@language=\count383
+\c@savedlanguage=\count384
+\c@origlanguage=\count385
+\c@savedoriglanguage=\count386
+\c@pageref=\count387
+\c@savedpageref=\count388
 \shorthandwidth=\skip97
 \shortjournalwidth=\skip98
 \shortserieswidth=\skip99
@@ -570,77 +570,69 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-unicode.
-def)
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-unicode.def")
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.d
-ef
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-compat.def"
 File: blx-compat.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
 )
 Package biblatex Info: expl3
-(biblatex)             2020-12-07 L3 programming layer (loader) 
+(biblatex)             2020-08-07 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 Package biblatex Info: Trying to load expl3 case changing code...
 Package biblatex Info: ... file 'blx-case-expl3.def' found.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-exp
-l3.def
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-case-expl3.def"
 File: blx-case-expl3 2020/08/23 v3.15a expl3 case changing code for biblatex
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+("C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.def"
 File: biblatex.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
-\c@textcitecount=\count394
-\c@textcitetotal=\count395
-\c@textcitemaxnames=\count396
-\c@biburlbigbreakpenalty=\count397
-\c@biburlbreakpenalty=\count398
-\c@biburlnumpenalty=\count399
-\c@biburlucpenalty=\count400
-\c@biburllcpenalty=\count401
+\c@textcitecount=\count389
+\c@textcitetotal=\count390
+\c@textcitemaxnames=\count391
+\c@biburlbigbreakpenalty=\count392
+\c@biburlbreakpenalty=\count393
+\c@biburlnumpenalty=\count394
+\c@biburlucpenalty=\count395
+\c@biburllcpenalty=\count396
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count402
+\c@smartand=\count397
 )
 Package biblatex Info: Trying to load bibliography style 'trad-alpha'...
 Package biblatex Info: ... file 'trad-alpha.bbx' found.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-trad\trad-al
-pha.bbx
+("C:\Program Files\MiKTeX\tex/latex/biblatex-trad\trad-alpha.bbx"
 File: trad-alpha.bbx 2018/02/17 v0.4a biblatex-trad alpha bibliograhy style
 Package biblatex Info: Trying to load bibliography style 'trad-standard'...
 Package biblatex Info: ... file 'trad-standard.bbx' found.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-trad\trad-st
-andard.bbx
+("C:\Program Files\MiKTeX\tex/latex/biblatex-trad\trad-standard.bbx"
 File: trad-standard.bbx 2018/02/17 v0.4a biblatex-trad base bibliography style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard
-.bbx
+("C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\standard.bbx"
 File: standard.bbx 2020/08/23 v3.15a biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count403
-\c@bbx:relatedtotal=\count404
+\c@bbx:relatedcount=\count398
+\c@bbx:relatedtotal=\count399
 )))
 Package biblatex Info: Trying to load citation style 'trad-alpha'...
 Package biblatex Info: ... file 'trad-alpha.cbx' found.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-trad\trad-al
-pha.cbx
+("C:\Program Files\MiKTeX\tex/latex/biblatex-trad\trad-alpha.cbx"
 File: trad-alpha.cbx 2018/02/17 v0.4a biblatex-trad alpha citation style
 Package biblatex Info: Trying to load citation style 'alphabetic'...
 Package biblatex Info: ... file 'alphabetic.cbx' found.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\alphabet
-ic.cbx
+("C:\Program Files\MiKTeX\tex/latex/biblatex/cbx\alphabetic.cbx"
 File: alphabetic.cbx 2020/08/23 v3.15a biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -656,7 +648,7 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+("C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.cfg"
 File: biblatex.cfg 
 )
 
@@ -679,18 +671,17 @@ Package biblatex Warning: 'iso8601' date format specifier is deprecated.
 Package biblatex Warning: 'iso8601' date format specifier is deprecated.
 (biblatex)                Use 'iso' instead.
 
-)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+) ("C:\Program Files\MiKTeX\tex/latex/csquotes\csquotes.sty"
 Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
-\csq@reset=\count405
-\csq@gtype=\count406
-\csq@glevel=\count407
-\csq@qlevel=\count408
-\csq@maxlvl=\count409
-\csq@tshold=\count410
+\csq@reset=\count400
+\csq@gtype=\count401
+\csq@glevel=\count402
+\csq@qlevel=\count403
+\csq@maxlvl=\count404
+\csq@tshold=\count405
 \csq@ltx@everypar=\toks26
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+("C:\Program Files\MiKTeX\tex/latex/csquotes\csquotes.def"
 File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
@@ -701,45 +692,41 @@ File: csquotes.cfg
 Package csquotes Info: Disabling multilingual quotes.
 Package csquotes Info: Redefining alias 'default' -> 'lithuanian'.
 ))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorith
-micx.sty
+("C:\Program Files\MiKTeX\tex/latex/algorithmicx\algorithmicx.sty"
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
-\c@ALG@line=\count411
-\c@ALG@rem=\count412
-\c@ALG@nested=\count413
+\c@ALG@line=\count406
+\c@ALG@rem=\count407
+\c@ALG@nested=\count408
 \ALG@tlm=\skip111
 \ALG@thistlm=\skip112
-\c@ALG@Lnr=\count414
-\c@ALG@blocknr=\count415
-\c@ALG@storecount=\count416
-\c@ALG@tmpcounter=\count417
+\c@ALG@Lnr=\count409
+\c@ALG@blocknr=\count410
+\c@ALG@storecount=\count411
+\c@ALG@tmpcounter=\count412
 \ALG@tmplength=\skip113
-)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.
-sty
+) ("C:\Program Files\MiKTeX\tex/latex/algorithms\algorithm.sty"
 Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
- (C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+
+("C:\Program Files\MiKTeX\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count418
+\c@float@type=\count413
 \float@exts=\toks27
-\float@box=\box48
+\float@box=\box46
 \@float@everytoks=\toks28
-\@floatcapt=\box49
+\@floatcapt=\box47
 )
 \@float@every@algorithm=\toks29
-\c@algorithm=\count419
+\c@algorithm=\count414
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseud
-ocode.sty
+("C:\Program Files\MiKTeX\tex/latex/algorithmicx\algpseudocode.sty"
 Package: algpseudocode 
 
 Document Style - pseudocode environments for use with the `algorithmicx' style
-)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+) ("C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks30
 \symAMSa=\mathgroup4
@@ -747,64 +734,66 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-) (C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2020/09/23 v2.17i AMS math features
+)
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip114
+
 For additional information on amsmath, use the `?' option.
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks31
-\ex@=\dimen157
+\ex@=\dimen153
 ))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen158
+\pmbraise@=\dimen154
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count420
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count421
-\leftroot@=\count422
-LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count423
-\DOTSCASE@=\count424
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box50
-\strutbox@=\box51
-\big@size=\dimen159
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count425
-\c@MaxMatrixCols=\count426
+\inf@bad=\count415
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count416
+\leftroot@=\count417
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count418
+\DOTSCASE@=\count419
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box48
+\strutbox@=\box49
+\big@size=\dimen155
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count420
+\c@MaxMatrixCols=\count421
 \dotsspace@=\muskip21
-\c@parentequation=\count427
-\dspbrk@lvl=\count428
+\c@parentequation=\count422
+\dspbrk@lvl=\count423
 \tag@help=\toks32
-\row@=\count429
-\column@=\count430
-\maxfields@=\count431
+\row@=\count424
+\column@=\count425
+\maxfields@=\count426
 \andhelp@=\toks33
-\eqnshift@=\dimen160
-\alignsep@=\dimen161
-\tagshift@=\dimen162
-\tagwidth@=\dimen163
-\totwidth@=\dimen164
-\lineht@=\dimen165
+\eqnshift@=\dimen156
+\alignsep@=\dimen157
+\tagshift@=\dimen158
+\tagwidth@=\dimen159
+\totwidth@=\dimen160
+\lineht@=\dimen161
 \@envbody=\toks34
 \multlinegap=\skip115
 \multlinetaggap=\skip116
 \mathdisplay@stack=\toks35
-LaTeX Info: Redefining \[ on input line 2923.
-LaTeX Info: Redefining \] on input line 2924.
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
+("C:\Program Files\MiKTeX\tex/latex/tools\bm.sty"
 Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup6
 \symboldletters=\mathgroup7
@@ -812,116 +801,113 @@ Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 209.
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
-Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+("C:\Program Files\MiKTeX\tex/latex/graphics\color.sty"
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
-g
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: xetex.def on input line 147.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.de
-f
-File: xetex.def 2020/08/26 v5.0i Graphics/color driver for xetex
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\xetex.def"
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
-.cfg
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 105.
 )
-\Gin@req@height=\dimen166
-\Gin@req@width=\dimen167
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count432
-\lst@gtempboxa=\box52
+("C:\Program Files\MiKTeX\tex/latex/listings\listings.sty"
+\lst@mode=\count427
+\lst@gtempboxa=\box50
 \lst@token=\toks36
-\lst@length=\count433
-\lst@currlwidth=\dimen168
-\lst@column=\count434
-\lst@pos=\count435
-\lst@lostspace=\dimen169
-\lst@width=\dimen170
-\lst@newlines=\count436
-\lst@lineno=\count437
-\lst@maxwidth=\dimen171
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+\lst@length=\count428
+\lst@currlwidth=\dimen164
+\lst@column=\count429
+\lst@pos=\count430
+\lst@lostspace=\dimen165
+\lst@width=\dimen166
+\lst@newlines=\count431
+\lst@lineno=\count432
+\lst@maxwidth=\dimen167
+
+("C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty"
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count438
-\lst@skipnumbers=\count439
-\lst@framebox=\box53
+\c@lstnumber=\count433
+\lst@skipnumbers=\count434
+\lst@framebox=\box51
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+("C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg"
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
- (C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+
+("C:\Program Files\MiKTeX\tex/latex/subfig\subfig.sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count440
+\c@KVtest=\count435
 \sf@farskip=\skip117
-\sf@captopadj=\dimen172
+\sf@captopadj=\dimen168
 \sf@capskip=\skip118
 \sf@nearskip=\skip119
-\c@subfigure=\count441
-\c@subfigure@save=\count442
-\c@subtable=\count443
-\c@subtable@save=\count444
+\c@subfigure=\count436
+\c@subfigure@save=\count437
+\c@subtable=\count438
+\c@subtable@save=\count439
 \sf@top=\skip120
 \sf@bottom=\skip121
-) (C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
-\wrapoverhang=\dimen173
-\WF@size=\dimen174
-\c@WF@wrappedlines=\count445
-\WF@box=\box54
+)
+("C:\Program Files\MiKTeX\tex/latex/wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen169
+\WF@size=\dimen170
+\c@WF@wrappedlines=\count440
+\WF@box=\box52
 \WF@everypar=\toks37
 Package: wrapfig 2003/01/31  v 3.6
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+("C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty"
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
-nekeys.sty
+("C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty"
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
-.sty
+("C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty"
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+("C:\Program Files\MiKTeX\tex/latex/hycolor\hycolor.sty"
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmac
-ro.sty
+("C:\Program Files\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty"
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+("C:\Program Files\MiKTeX\tex/latex/auxhook\auxhook.sty"
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen175
-\Hy@linkcounter=\count446
-\Hy@pagecounter=\count447
+\@linkdim=\dimen171
+\Hy@linkcounter=\count441
+\Hy@pagecounter=\count442
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+("C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def"
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+("C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty"
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.s
-ty
+("C:\Program Files\MiKTeX\tex/generic/etexcmds\etexcmds.sty"
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count448
+\Hy@SavedSpaceFactor=\count443
 Package hyperref Info: Hyper figures OFF on input line 4464.
 Package hyperref Info: Link nesting OFF on input line 4469.
 Package hyperref Info: Hyper index ON on input line 4472.
@@ -929,21 +915,20 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count449
+\c@Hy@tempcnt=\count444
 LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen176
+\XeTeXLinkMargin=\dimen172
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+("C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty"
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
-lc.sty
+("C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty"
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count450
-\Field@Width=\dimen177
-\Fld@charsize=\dimen178
+\Fld@menulength=\count445
+\Field@Width=\dimen173
+\Fld@charsize=\dimen174
 Package hyperref Info: Hyper figures OFF on input line 6347.
 Package hyperref Info: Link nesting OFF on input line 6352.
 Package hyperref Info: Hyper index ON on input line 6355.
@@ -954,46 +939,38 @@ Package hyperref Info: PDF/A mode OFF on input line 6377.
 LaTeX Info: Redefining \ref on input line 6417.
 LaTeX Info: Redefining \pageref on input line 6421.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
-ge
-with kernel methods
+("C:\Program Files\MiKTeX\tex/generic/atbegshi\atbegshi.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count451
-\c@Item=\count452
-\c@Hfootnote=\count453
+\Hy@abspage=\count446
+\c@Item=\count447
+\c@Hfootnote=\count448
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+("C:\Program Files\MiKTeX\tex/latex/hyperref\hxetex.def"
 File: hxetex.def 2020-05-15 v7.00e Hyperref driver for XeTeX
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+("C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def"
 File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc
-.sty
+("C:\Program Files\MiKTeX\tex/generic/stringenc\stringenc.sty"
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box55
-\c@Hy@AnnotLevel=\count454
-\HyField@AnnotCount=\count455
-\Fld@listcount=\count456
-\c@bookmark@seq@number=\count457
+\pdfm@box=\box53
+\c@Hy@AnnotLevel=\count449
+\HyField@AnnotCount=\count450
+\Fld@listcount=\count451
+\c@bookmark@seq@number=\count452
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
-ilecheck.sty
+("C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty"
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.st
-y
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
-e
-with kernel methods
+("C:\Program Files\MiKTeX\tex/latex/atveryend\atveryend.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
-ecounter.sty
+("C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty"
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -1001,15 +978,14 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip122
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.s
-ty
+("C:\Program Files\MiKTeX\tex/latex/todonotes\todonotes.sty"
 Package: todonotes 2020/08/18 v1.1.3 Todonotes source and documentation.
 Package: todonotes 2018/11/22
- (C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+
+("C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
-g
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
@@ -1023,382 +999,322 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tik
-z.sty
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.st
-y
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.
-sty
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
-il-common.tex
+("C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty"
+("C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty"
+("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty"
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex"
 \pgfutil@everybye=\toks38
-\pgfutil@tempdima=\dimen179
-\pgfutil@tempdimb=\dimen180
+\pgfutil@tempdima=\dimen175
+\pgfutil@tempdimb=\dimen176
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
-il-common-lists.tex))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
-il-latex.def
-\pgfutil@abb=\box56
-)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrc
-s.code.tex
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.te
-x)
-Package: pgfrcs 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex"))
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def"
+\pgfutil@abb=\box54
+
+("C:\Program Files\MiKTeX\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-Package: pgf 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex")
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcor
-e.sty
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsy
-s.sty
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-sys.code.tex
-Package: pgfsys 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty"
+("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex"
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
-ys.code.tex
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex"
 \pgfkeys@pathtoks=\toks39
 \pgfkeys@temptoks=\toks40
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
-ysfiltered.code.tex
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks41
 ))
-\pgf@x=\dimen181
-\pgf@y=\dimen182
-\pgf@xa=\dimen183
-\pgf@ya=\dimen184
-\pgf@xb=\dimen185
-\pgf@yb=\dimen186
-\pgf@xc=\dimen187
-\pgf@yc=\dimen188
-\pgf@xd=\dimen189
-\pgf@yd=\dimen190
+\pgf@x=\dimen177
+\pgf@y=\dimen178
+\pgf@xa=\dimen179
+\pgf@ya=\dimen180
+\pgf@xb=\dimen181
+\pgf@yb=\dimen182
+\pgf@xc=\dimen183
+\pgf@yc=\dimen184
+\pgf@xd=\dimen185
+\pgf@yd=\dimen186
 \w@pgf@writea=\write4
 \r@pgf@reada=\read3
-\c@pgf@counta=\count458
-\c@pgf@countb=\count459
-\c@pgf@countc=\count460
-\c@pgf@countd=\count461
+\c@pgf@counta=\count453
+\c@pgf@countb=\count454
+\c@pgf@countc=\count455
+\c@pgf@countd=\count456
 \t@pgf@toka=\toks42
 \t@pgf@tokb=\toks43
 \t@pgf@tokc=\toks44
-\pgf@sys@id@count=\count462
-
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-.cfg
-File: pgf.cfg 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@sys@id@count=\count457
+("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg"
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
 Driver file for pgf: pgfsys-xetex.def
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-sys-xetex.def
-File: pgfsys-xetex.def 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-xetex.def"
+File: pgfsys-xetex.def 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-sys-dvipdfmx.def
-File: pgfsys-dvipdfmx.def 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-dvipdfmx.def"
+File: pgfsys-dvipdfmx.def 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-sys-common-pdf.def
-File: pgfsys-common-pdf.def 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 )
-\pgfsys@objnum=\count463
-)))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-syssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgfsyssoftpath@smallbuffer@items=\count464
-\pgfsyssoftpath@bigbuffer@items=\count465
-)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-sysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-ore.code.tex
-Package: pgfcore 2020/12/01 v3.1.7a (3.1.7a)
+\pgfsys@objnum=\count458
+))) ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.t
+ex"
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count459
+\pgfsyssoftpath@bigbuffer@items=\count460
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+"
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex"
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
-de.tex
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcal
-c.code.tex
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathuti
-l.code.tex)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpar
-ser.code.tex
-\pgfmath@dimen=\dimen191
-\pgfmath@count=\count466
-\pgfmath@box=\box57
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen187
+\pgfmath@count=\count461
+\pgfmath@box=\box55
 \pgfmath@toks=\toks45
 \pgfmath@stack@operand=\toks46
 \pgfmath@stack@operation=\toks47
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.code.tex
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.basic.code.tex)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.trigonometric.code.tex)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.random.code.tex)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.comparison.code.tex)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.base.code.tex)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.round.code.tex)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.misc.code.tex)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.integerarithmetics.code.tex)))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathflo
-at.code.tex
-\c@pgfmathroundto@lastzeros=\count467
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex"
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.c
+ode.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex
+")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code
+.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex
+")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmet
+ics.code.tex")))
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count462
 ))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.cod
-e.tex)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orepoints.code.tex
-File: pgfcorepoints.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgf@picminx=\dimen192
-\pgf@picmaxx=\dimen193
-\pgf@picminy=\dimen194
-\pgf@picmaxy=\dimen195
-\pgf@pathminx=\dimen196
-\pgf@pathmaxx=\dimen197
-\pgf@pathminy=\dimen198
-\pgf@pathmaxy=\dimen199
-\pgf@xx=\dimen256
-\pgf@xy=\dimen257
-\pgf@yx=\dimen258
-\pgf@yy=\dimen259
-\pgf@zx=\dimen260
-\pgf@zy=\dimen261
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen188
+\pgf@picmaxx=\dimen189
+\pgf@picminy=\dimen190
+\pgf@picmaxy=\dimen191
+\pgf@pathminx=\dimen192
+\pgf@pathmaxx=\dimen193
+\pgf@pathminy=\dimen194
+\pgf@pathmaxy=\dimen195
+\pgf@xx=\dimen196
+\pgf@xy=\dimen197
+\pgf@yx=\dimen198
+\pgf@yy=\dimen199
+\pgf@zx=\dimen256
+\pgf@zy=\dimen257
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgf@path@lastx=\dimen262
-\pgf@path@lasty=\dimen263
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.
+tex"
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen258
+\pgf@path@lasty=\dimen259
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orepathusage.code.tex
-File: pgfcorepathusage.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgf@shorten@end@additional=\dimen264
-\pgf@shorten@start@additional=\dimen265
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen260
+\pgf@shorten@start@additional=\dimen261
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count463
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orescopes.code.tex
-File: pgfcorescopes.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgfpic=\box58
-\pgf@hbox=\box59
-\pgf@layerbox@main=\box60
-\pgf@picture@serial@count=\count468
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.t
+ex"
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen262
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgflinewidth=\dimen266
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.cod
+e.tex"
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen263
+\pgf@pt@y=\dimen264
+\pgf@pt@temp=\dimen265
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oretransformations.code.tex
-File: pgfcoretransformations.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgf@pt@x=\dimen267
-\pgf@pt@y=\dimen268
-\pgf@pt@temp=\dimen269
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orequick.code.tex
-File: pgfcorequick.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oreobjects.code.tex
-File: pgfcoreobjects.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code
+.tex"
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen266
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orearrows.code.tex
-File: pgfcorearrows.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgfarrowsep=\dimen270
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen267
+\pgf@sys@shading@range@num=\count464
+\pgf@shadingcount=\count465
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oreshade.code.tex
-File: pgfcoreshade.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgf@max=\dimen271
-\pgf@sys@shading@range@num=\count469
-\pgf@shadingcount=\count470
-)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oreimage.code.tex
-File: pgfcoreimage.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oreexternal.code.tex
-File: pgfcoreexternal.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgfexternal@startupbox=\box61
-))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orelayers.code.tex
-File: pgfcorelayers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box59
+)) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oretransparency.code.tex
-File: pgfcoretransparency.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.t
+ex"
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orepatterns.code.tex
-File: pgfcorepatterns.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orerdf.code.tex
-File: pgfcorerdf.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
-leshapes.code.tex
-File: pgfmoduleshapes.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgfnodeparttextbox=\box62
+("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box60
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
-leplot.code.tex
-File: pgfmoduleplot.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
-comp-version-0-65.sty
-Package: pgfcomp-version-0-65 2020/12/01 v3.1.7a (3.1.7a)
-\pgf@nodesepstart=\dimen272
-\pgf@nodesepend=\dimen273
-)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
-comp-version-1-18.sty
-Package: pgfcomp-version-1-18 2020/12/01 v3.1.7a (3.1.7a)
-))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.
-sty
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys
-.sty
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
-ys.code.tex))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
-de.tex))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffo
-r.code.tex
-Package: pgffor 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen268
+\pgf@nodesepend=\dimen269
+) ("C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.st
+y"
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) ("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty"
+("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex"))
+("C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty"
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex"))
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex"
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
-de.tex)
-\pgffor@iter=\dimen274
-\pgffor@skip=\dimen275
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex")
+\pgffor@iter=\dimen270
+\pgffor@skip=\dimen271
 \pgffor@stack=\toks48
 \pgffor@toks=\toks49
 ))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz\tikz.code.tex
-Package: tikz 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex"
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
-braryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgf@plot@mark@count=\count471
-\pgfplotmarksize=\dimen276
+("C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code
+.tex"
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count466
+\pgfplotmarksize=\dimen272
 )
-\tikz@lastx=\dimen277
-\tikz@lasty=\dimen278
-\tikz@lastxsaved=\dimen279
-\tikz@lastysaved=\dimen280
-\tikz@lastmovetox=\dimen281
-\tikz@lastmovetoy=\dimen282
-\tikzleveldistance=\dimen283
-\tikzsiblingdistance=\dimen284
-\tikz@figbox=\box63
-\tikz@figbox@bg=\box64
-\tikz@tempbox=\box65
-\tikz@tempbox@bg=\box66
-\tikztreelevel=\count472
-\tikznumberofchildren=\count473
-\tikznumberofcurrentchild=\count474
-\tikz@fig@count=\count475
+\tikz@lastx=\dimen273
+\tikz@lasty=\dimen274
+\tikz@lastxsaved=\dimen275
+\tikz@lastysaved=\dimen276
+\tikz@lastmovetox=\dimen277
+\tikz@lastmovetoy=\dimen278
+\tikzleveldistance=\dimen279
+\tikzsiblingdistance=\dimen280
+\tikz@figbox=\box61
+\tikz@figbox@bg=\box62
+\tikz@tempbox=\box63
+\tikz@tempbox@bg=\box64
+\tikztreelevel=\count467
+\tikznumberofchildren=\count468
+\tikznumberofcurrentchild=\count469
+\tikz@fig@count=\count470
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
-lematrix.code.tex
-File: pgfmodulematrix.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgfmatrixcurrentrow=\count476
-\pgfmatrixcurrentcolumn=\count477
-\pgf@matrix@numberofcolumns=\count478
+("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count471
+\pgfmatrixcurrentcolumn=\count472
+\pgf@matrix@numberofcolumns=\count473
 )
-\tikz@expandcount=\count479
+\tikz@expandcount=\count474
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibr
+arytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibr
+arypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibraryshadows.code.tex
-File: tikzlibraryshadows.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibr
+aryshadows.code.tex"
+File: tikzlibraryshadows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibraryfadings.code.tex
-File: tikzlibraryfadings.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibr
+aryfadings.code.tex"
+File: tikzlibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
-braryfadings.code.tex
-File: pgflibraryfadings.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-)))
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+("C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryfadings.code.tex"
+File: pgflibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) ("C:\Program Files\MiKTeX\tex/latex/tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count480
-\calc@Bcount=\count481
-\calc@Adimen=\dimen285
-\calc@Bdimen=\dimen286
+\calc@Acount=\count475
+\calc@Bcount=\count476
+\calc@Adimen=\dimen281
+\calc@Bdimen=\dimen282
 \calc@Askip=\skip123
 \calc@Bskip=\skip124
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count482
+\calc@Ccount=\count477
 \calc@Cskip=\skip125
 )
-\c@@todonotes@numberoftodonotes=\count483
+\c@@todonotes@numberoftodonotes=\count478
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
+("C:\Program Files\MiKTeX\tex/latex/lineno\lineno.sty"
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 Invalid UTF-8 byte or sequence at line 296 replaced by U+FFFD.
-\linenopenalty=\count484
+\linenopenalty=\count479
 \output=\toks50
-\linenoprevgraf=\count485
-\linenumbersep=\dimen287
-\linenumberwidth=\dimen288
-\c@linenumber=\count486
-\c@pagewiselinenumber=\count487
-\c@LN@truepage=\count488
-\c@internallinenumber=\count489
-\c@internallinenumbers=\count490
-\quotelinenumbersep=\dimen289
-\bframerule=\dimen290
-\bframesep=\dimen291
-\bframebox=\box67
+\linenoprevgraf=\count480
+\linenumbersep=\dimen283
+\linenumberwidth=\dimen284
+\c@linenumber=\count481
+\c@pagewiselinenumber=\count482
+\c@LN@truepage=\count483
+\c@internallinenumber=\count484
+\c@internallinenumbers=\count485
+\quotelinenumbersep=\dimen285
+\bframerule=\dimen286
+\bframesep=\dimen287
+\bframebox=\box65
 
 
 LaTeX Warning: Command \@parboxrestore  has changed.
                Check if current package is valid.
 
 LaTeX Info: Redefining \\ on input line 3056.
-)
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.s
-ty
+) ("C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape.sty"
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+("C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 
@@ -1466,7 +1382,7 @@ LaTeX Font Info:    ... okay on input line 44.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
 4.
- (C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+ ("C:\Program Files\MiKTeX\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 44.
@@ -1586,22 +1502,18 @@ Package caption Info: End \AtBeginDocument code.
 
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
-
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\american
-.lbx
+("C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\american.lbx"
 File: american.lbx 2020/08/23 v3.15a biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.
-lbx
+("C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\english.lbx"
 File: english.lbx 2020/08/23 v3.15a biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.
-lbx
+("C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\english.lbx"
 File: english.lbx 2020/08/23 v3.15a biblatex localization (PK/MW)
 ))
 Package biblatex Info: Trying to load language 'lithuanian'...
@@ -1622,28 +1534,29 @@ Package biblatex Info: ... file 'PKP-Lab1.bbl' not found.
 No file PKP-Lab1.bbl.
 Package biblatex Info: Reference section=0 on input line 44.
 Package biblatex Info: Reference segment=0 on input line 44.
-\c@lstlisting=\count491
+\c@lstlisting=\count486
+\AtBeginShipoutBox=\box66
 Package hyperref Info: Link coloring OFF on input line 44.
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+("C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+("C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty"
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
-itlestring.sty
+("C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count492
+\c@section@level=\count487
 )
 LaTeX Info: Redefining \ref on input line 44.
 LaTeX Info: Redefining \pageref on input line 44.
 LaTeX Info: Redefining \nameref on input line 44.
- (PKP-Lab1.out) (PKP-Lab1.out)
+
+(PKP-Lab1.out) (PKP-Lab1.out)
 \@outlinefile=\write5
 \openout5 = `PKP-Lab1.out'.
 
-
+ ABD: EveryShipout initializing macros
 
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
@@ -1658,22 +1571,22 @@ LaTeX Info: Redefining \sffamily on input line 45.
 LaTeX Info: Redefining \ttfamily on input line 45.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
 
 
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(C:\Users\KaSaras\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\se-ascii-
-print.def
+("C:\Program Files\MiKTeX\tex/generic/stringenc\se-ascii-print.def"
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 ) [1
 
-] (PKP-Lab1.toc
+]
+(PKP-Lab1.toc
 LaTeX Info: Redefining \rmfamily on input line 3.
 LaTeX Info: Redefining \sffamily on input line 3.
 LaTeX Info: Redefining \ttfamily on input line 3.
@@ -1723,33 +1636,30 @@ File: img/Dangerous-Countries-3.png Graphic file (type bmp)
 File: img/Negative-Interdependancies.png Graphic file (type bmp)
 <img/Negative-Interdependancies.png>
 
-Overfull \hbox (27.78647pt too wide) in paragraph at lines 147--148
+Overfull \hbox (27.75073pt too wide) in paragraph at lines 147--148
+ [] 
+ []
+
+File: img/Operationalization.png Graphic file (type bmp)
+<img/Operationalization.png>
+
+Overfull \hbox (27.75073pt too wide) in paragraph at lines 155--156
  [] 
  []
 
 [12
 
 ]
-File: img/Operationalization.png Graphic file (type bmp)
-<img/Operationalization.png>
-
-Overfull \hbox (27.78647pt too wide) in paragraph at lines 155--156
- [] 
- []
-
-[13
-
-]
 File: img/Satisfied-Goals.png Graphic file (type bmp)
 <img/Satisfied-Goals.png>
 
-Overfull \hbox (27.78647pt too wide) in paragraph at lines 164--165
+Overfull \hbox (27.75073pt too wide) in paragraph at lines 164--165
  [] 
  []
 
-[14
+[13] [14] [15
 
-] [15
+] [16
 
 ]
 The property list \polyglossia@langsetup contains the pairs (without outer
@@ -1802,10 +1712,12 @@ braces):
 >  {english/babelname}  =>  {american}
 >  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
- [16
+ [17
 
-
-] (PKP-Lab1.aux
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 174.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 174.
+ (PKP-Lab1.aux
 LaTeX Info: Redefining \rmfamily on input line 23.
 LaTeX Info: Redefining \sffamily on input line 23.
 LaTeX Info: Redefining \ttfamily on input line 23.
@@ -1813,9 +1725,17 @@ LaTeX Info: Redefining \rmfamily on input line 27.
 LaTeX Info: Redefining \sffamily on input line 27.
 LaTeX Info: Redefining \ttfamily on input line 27.
 )
-Package rerunfilecheck Info: File `PKP-Lab1.out' has not changed.
-(rerunfilecheck)             Checksum: D5B83D783ED7FA423E565A1961D1BF79;1065.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 174.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 174.
 
+
+Package rerunfilecheck Warning: File `PKP-Lab1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `PKP-Lab1.out':
+(rerunfilecheck)             Before: 955853BB09BDEADADFD224BDB92C88A2;1081
+(rerunfilecheck)             After:  BA1574D3447C1E3FEFF7A6C522692C28;1154.
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1824,12 +1744,12 @@ Package logreq Info: Writing requests to 'PKP-Lab1.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35497 strings out of 412095
- 701704 string characters out of 2846630
- 1500833 words of memory out of 3000000
- 54567 multiletter control sequences out of 15000+200000
- 416724 words of font info for 95 fonts, out of 3000000 for 9000
+ 35830 strings out of 414493
+ 704082 string characters out of 2907548
+ 1453884 words of memory out of 3000000
+ 52496 multiletter control sequences out of 15000+200000
+ 548382 words of font info for 97 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 119i,11n,141p,743b,5376s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 75i,11n,104p,906b,5374s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on PKP-Lab1.pdf (17 pages).
+Output written on PKP-Lab1.pdf (18 pages).
