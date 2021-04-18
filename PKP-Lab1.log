@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.17)  18 APR 2021 15:10
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.17)  18 APR 2021 15:18
 entering extended mode
 **./PKP-Lab1.tex
 (PKP-Lab1.tex
@@ -1650,7 +1650,7 @@ File: img/1.png Graphic file (type bmp)
 ] [4
 
 ]
-Underfull \hbox (badness 6284) in paragraph at lines 82--82
+Underfull \hbox (badness 6284) in paragraph at lines 80--80
 []\TU/texgyretermes(0)/b/n/17.28 Detecting and modelling of implicit interdepen
 dencies
  []
@@ -1724,17 +1724,23 @@ LaTeX Info: Redefining \rmfamily on input line 27.
 LaTeX Info: Redefining \sffamily on input line 27.
 LaTeX Info: Redefining \ttfamily on input line 27.
 )
-Package rerunfilecheck Info: File `PKP-Lab1.out' has not changed.
-(rerunfilecheck)             Checksum: 835250C540183FCE99A8F7656E45BF5F;1223.
+
+Package rerunfilecheck Warning: File `PKP-Lab1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `PKP-Lab1.out':
+(rerunfilecheck)             Before: 835250C540183FCE99A8F7656E45BF5F;1223
+(rerunfilecheck)             After:  C315782506C751A3702A00758FC3EBB9;1004.
 Package logreq Info: Writing requests to 'PKP-Lab1.run.xml'.
 \openout1 = `PKP-Lab1.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35331 strings out of 412095
- 697510 string characters out of 2846630
+ 35332 strings out of 412095
+ 697538 string characters out of 2846630
  1500207 words of memory out of 3000000
- 54419 multiletter control sequences out of 15000+200000
+ 54420 multiletter control sequences out of 15000+200000
  416724 words of font info for 95 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  119i,11n,141p,743b,5376s stack positions out of 5000i,500n,10000p,200000b,50000s
