@@ -167,7 +167,28 @@
 	\end{figure}
 \end{landscape}
 \subsection{Decision Explanation}
+	\subsubsection{Negative impact}
+		\begin{itemize}
+			\item{Frequantly verify self-isolation information has negative impact on confitentiality because increasing amounts of data are processed with increases chance for data interception.}
+			\item{Store minimum amount of data about person has negative impact on good respons time because querying small unstrctured data takes longer.}
+			\item{Store minimum amount of data about person has negative impact on good replication because replication requires a lot of data to work properly.}
+			\item{GPS tracking of self-isolation cases has negative impact on confidentiality because in case of data breach intruder might gain ability to know persons location.}
+			\item{GPS tracking of self-isolation cases has negative impact on good response time because updating GPS information takes a long time.}
+			\item{Frequently update self-isolation information has negative impact on response time because it takes computer resources to do the update.}
+			\item{Use PAXOS algorithm for replication has negative impact on response time because this algorithm take a lot of computational resources to complete. Which impact respose time.}
+			\item{Data stored in multiple data sources has negative impact on good space because it takes a lot of physical computer space to store in multiple sources.}
+		\end{itemize}
+	\subsubsection{Rejected operationalization}
+		\begin{itemize}
+			\item{Frequantly verify self-isolation information - verification usualy can be a complex process also it heavily impacts confidentiality, thats why we decided to reject.}
+			\item{Advanced protocol to minimize packet travel - lack of competency in team to implement such protocols.}
+			\item{Use advanced compression algorithms for data storage - lack of competency in team to implement such algorithms.}
+			\item{Apply advanced data science algoritms for statistical analysis - lack of competency in team to implement such algorithms.}
+			\item{Use PAXOS algorithm for replication - lack of competency in team to implement such protocols.}
+		\end{itemize}
 \subsection{Conclusions}
+ Using NFR we succesfuly selected, decomposed and chose operationalized softgoald to be completed in our project.
+Analysis was very useful and applicable in real life scenarions in industry.
 \section{Strategic Dependency Model}
 \section{Strategic Rationale Model}
 \section{Conclusions about an dependency}
