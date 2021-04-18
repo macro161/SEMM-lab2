@@ -57,7 +57,7 @@
 % Po lentelės antraštės prefiksu bus dedamas taškas
 \RequirePackage{caption}
 \captionsetup*[table]{labelsep=period}
-\captionsetup*[figure]{labelsep=period, name=pav}
+\captionsetup*[figure]{labelsep=period, name=pic}
 
 % Informacijos tituliniame puslapyje kintamieji
 \newcommand{\university}[1]{\def\@university{#1}}

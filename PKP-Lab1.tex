@@ -18,6 +18,7 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{todonotes}
 \usepackage{lineno}
+\usepackage{pdflscape}
 
 
 % Titulinio aprašas
@@ -68,60 +69,104 @@
 		\item{\textbf{Replication} - non sensitive data must have duplicate records stored to increase the system's fault-tolerance.}
 	\end{itemize}
 
+	\begin{landscape}
 \section{Modelling of the non-functional requirements}
 	\subsection{Self-isolation}
 		\begin{figure}[H]
 			\center
 			\includegraphics[scale=0.9]{img/Self-Isolation-1}
-			\caption{NFR diagram} % Antraštė įterpiama po paveikslėlio
+			\caption{Self Isolation - Initial Software Dependency Graph} % Antraštė įterpiama po paveikslėlio
 			\label{img:kurimoProcesas}
 		\end{figure}
 		\begin{figure}[H]
 			\center
 			\includegraphics[scale=0.5]{img/Self-Isolation-2}
-			\caption{NFR diagram} % Antraštė įterpiama po paveikslėlio
+			\caption{Self Isolation - Decomposing NFRs} % Antraštė įterpiama po paveikslėlio
 			\label{img:kurimoProcesas}
 		\end{figure}
-		
-			\begin{figure}[H]
-				\center
-				\includegraphics[scale=0.5]{img/Self-Isolation-3}
-				\caption{NFR diagram} % Antraštė įterpiama po paveikslėlio
-				\label{img:kurimoProcesas}
-			\end{figure}
 		
 
 	\subsection{Infected patients}
 		\begin{figure}[H]
 			\center
 			\includegraphics[scale=0.9]{img/Infected-Patients-1}
-			\caption{NFR diagram} % Antraštė įterpiama po paveikslėlio
+			\caption{Infected Patients - Initial Software Dependency Graph} % Antraštė įterpiama po paveikslėlio
 			\label{img:kurimoProcesas}
 		\end{figure}
 		\begin{figure}[H]
 			\center
 			\includegraphics[scale=0.7]{img/Infected-Patients-2}
-			\caption{NFR diagram} % Antraštė įterpiama po paveikslėlio
+			\caption{Infected Patients - Decomposing NFRs} % Antraštė įterpiama po paveikslėlio
+			\label{img:kurimoProcesas}
+		\end{figure}
+
+
+
+	\subsection{Dangerouse countries}
+		\begin{figure}[H]
+			\center
+			\includegraphics[scale=0.9]{img/Dangerous-Countries-1}
+			\caption{Dangerous Countries - Initial Software Dependency Graph} % Antraštė įterpiama po paveikslėlio
 			\label{img:kurimoProcesas}
 		\end{figure}
 		\begin{figure}[H]
 			\center
-			\includegraphics[scale=0.7]{img/Infected-Patients-3}
-			\caption{NFR diagram} % Antraštė įterpiama po paveikslėlio
+			\includegraphics[scale=0.7]{img/Dangerous-Countries-2}
+			\caption{Dangerous Countries - Decomposing NFRs} % Antraštė įterpiama po paveikslėlio
 			\label{img:kurimoProcesas}
-		\end{figure}
-	\subsection{Dangerouse countries}
+		\end{figure}	
 
 \section{Identifying and modelling of possible operationalizations for NFR}
+	\subsection{Self-isolation}
+			\begin{figure}[H]
+				\center
+				\includegraphics[scale=0.4]{img/Self-Isolation-3}
+				\caption{Self Isolation - Possible Operationalizations} % Antraštė įterpiama po paveikslėlio
+				\label{img:kurimoProcesas}
+			\end{figure}
+		
+	\subsection{Infected patients}
+		\begin{figure}[H]
+			\center
+			\includegraphics[scale=0.5]{img/Infected-Patients-3}
+			\caption{Infected patients - Possible Operationalizations} % Antraštė įterpiama po paveikslėlio
+			\label{img:kurimoProcesas}
+		\end{figure}
+
+	\subsection{Dangerouse countries}
+		\begin{figure}[H]
+			\center
+			\includegraphics[scale=0.5]{img/Dangerous-Countries-3}
+			\caption{Dangerous Countries - Possible Operationalizations} % Antraštė įterpiama po paveikslėlio
+			\label{img:kurimoProcesas}
+		\end{figure}	
 
 \section{Detecting and modelling of implicit interdependencies among NFR}
+	\begin{figure}[H]
+		\center
+		\includegraphics[scale=0.2]{img/Negative-Interdependancies}
+		\caption{Implicit interdependencies among NFRs} % Antraštė įterpiama po paveikslėlio
+		\label{img:kurimoProcesas}
+	\end{figure}
 
 \section{Chosen operationalizations}
-
+	\begin{figure}[H]
+		\center
+		\includegraphics[scale=0.2]{img/Operationalization}
+		\caption{Chosen Operationalizations among NFRs} % Antraštė įterpiama po paveikslėlio
+		\label{img:kurimoProcesas}
+	\end{figure}
+	
+	
 \section{Strategic rationale model}
-
+	\begin{figure}[H]
+		\center
+		\includegraphics[scale=0.2]{img/Satisfied-Goals}
+		\caption{Satisfied and Denied Softgoals} % Antraštė įterpiama po paveikslėlio
+		\label{img:kurimoProcesas}
+	\end{figure}
 \section{Conclusions about an actor dependency}
-
+	\end{landscape}
 \sectionnonum{Conclusions}
 
 \end{document}
