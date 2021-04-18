@@ -8,26 +8,20 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.}Modelling of the non-functional requirements}{3}{section.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.}Time}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.1.}Self-isolation}{3}{subsection.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.}Space}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.2.}Infected patients}{6}{subsection.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.}Legality}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.3.}Dangerouse countries}{8}{subsection.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.}Reliability}{3}{subsection.2.4}%
+\contentsline {section}{\numberline {3.}Identifying and modelling of possible operationalizations for NFR}{9}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.}Confidentiality}{3}{subsection.2.5}%
+\contentsline {section}{\numberline {4.}Detecting and modelling of implicit interdependencies among NFR}{10}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.}Replication}{3}{subsection.2.6}%
+\contentsline {section}{\numberline {5.}Chosen operationalizations}{11}{section.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.}Identifying and modelling of possible operationalizations for NFR}{4}{section.3}%
+\contentsline {section}{\numberline {6.}Strategic rationale model}{12}{section.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.}Detecting and modelling of implicit interdependencies among NFR}{5}{section.4}%
+\contentsline {section}{\numberline {7.}Conclusions about an actor dependency}{13}{section.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.}Chosen operationalizations}{6}{section.5}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.}Strategic rationale model}{7}{section.6}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.}Conclusions about an actor dependency}{8}{section.7}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Conclusions}{9}{section*.3}%
+\contentsline {section}{Conclusions}{14}{section*.9}%
