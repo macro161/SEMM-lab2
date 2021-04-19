@@ -247,14 +247,14 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="kKbkekHy60Cc9SGM3moB2QAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Secure Self-Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Secure [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="tqHq0s5FPEqnDcTEzaKssgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="9MNHm7OQC0+thmOC6Ct/9gAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="NUvzgg0ep0m/QF5aixbQ9wAA">
@@ -285,12 +285,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="2fF+Dx2jI0ewblX/qu3VNQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">GP Self-Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Performance [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="KgN6onRtOUiVkYqf7EpK6wAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="I8ahAoauPUiDiZQYJ+6WAAAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="9Gf1iOCNnEGQq8VDWU3ubgAA">
@@ -330,14 +330,14 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="q51wDJQspk2H/3/xrBFzdwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Secure Self-Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Secure [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="x41ObueY+E2O49XHF5P1YgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="ggdRJNQQvU2kZm1wjh7nrgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="+FjU6oByEEGpX5HwUGQqvgAA">
@@ -368,12 +368,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="r3KTvaEyeUWTMRFyQZPmXwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">GP Self-Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Performance [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="6DPxr2OVXUm9pPebZhs8GAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="d+t+WTGT7kCHyzyNa1FovQAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="/pKEonN87UWJe8BCaTxBPwAA">
@@ -404,12 +404,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="z5hMns59w0+iZpK3ZgnniQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Confidentiality Self Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Confidentiality [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="j7YWVepBjUOTeSbi1ZxGwwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="FsFQgKGNfUeq8uSY0BDB2wAA">
-<XPD:ATTR name="Text" type="string">{Type = Confidentiality, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Confidentiality, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="30HMBKbXFkehSfCN+HvghgAA">
@@ -440,12 +440,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Xb8xIs/X1kyPUzWmk142ewAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Availability Self Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Availability [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="WopK3JCR3UGabw/b6/v77QAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="QcwkuAwvJ0iTiQ09ByM7YQAA">
-<XPD:ATTR name="Text" type="string">{Type = Availability, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Availability, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="vLFsbQC2+0K7cpokEk/ehgAA">
@@ -534,12 +534,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="iLpAx0M+q0aQKIXXZ74iogAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Good Space Self Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Space [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="ByqeXGrVvkuCYK2PfbivNQAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="WLveb1GKLECrlypxJHxjVQAA">
-<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Good Space, Weight = 0.2, SelectionInfoDisplay = Off, Priority = Low}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Good Space, Weight = 0.2, SelectionInfoDisplay = Off, Priority = Low, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="JQZPxfLPzkuUGivKB5buQgAA">
@@ -570,12 +570,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="hF/FbCLtV02gXNWsPrj6kgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Reliable Self Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliable [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="IHu9UGrRO0aF0Fh2TA2w/gAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="pwV4/fcYzUGb7uvUoslamAAA">
-<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Reliable, Weight = 0.2, SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Reliable, Weight = 0.2, SelectionInfoDisplay = Off, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="3MKgysVrMUOemMYE/1jSJQAA">
@@ -606,12 +606,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="teAkE11KVkyq95JLYohXkQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Good Response Time Self Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Response Time [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="he3oBg7dcUyx2N/m6WFCogAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="vv0Oll0k7UK8lo0J6ME4SgAA">
-<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Good Response Time, Weight = 0.2, SelectionInfoDisplay = Off, Priority = Medium, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Good Response Time, Weight = 0.2, SelectionInfoDisplay = Off, Priority = Medium, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="5jW2KoMAHkeq0pfyCyi0VAAA">
@@ -697,6 +697,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">wg64dLMs7UOaGdfYV5nZ3wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="bhDHZ8v4CkC+vYaHoEFjhwAA">
@@ -738,12 +739,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="T+faQ96OZkifxYeTDc/JEwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Store Minimum Amount Data per Person</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Confidentiality [Store Minimum Amount Data per Person]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="v23VRmvz80WqSSMuAurfNQAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="Dt+BPzx1vUWG7yg0mjChQwAA">
-<XPD:ATTR name="Text" type="string">{Type = Confidentiality, Topic = Store Minimum Amount..., SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Confidentiality, Topic = Store Minimum Amount..., SelectionInfoDisplay = Off, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="xT72LoDbOEaDDM5Q3e5DQQAA">
@@ -774,12 +775,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="z+JPULA8R0mWiq9zGYbkJgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Frequently Verify Self-Isolation Information</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliable [Frequently Verify Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="gvkT/dR7IkCi0Xs0NKYAGgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="sGfSooIIf0yXLXSALuTTLQAA">
-<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Frequently Verify Se..., SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Frequently Verify Se..., SelectionInfoDisplay = Off, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="yNdg6/LPW0e1Y5SPlu3bDgAA">
@@ -810,12 +811,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="bMo1mSI+9ECoWwiR3SGQqAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">GPS Tracking of Self-Isolation Cases</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliable [GPS Tracking of Self-Isolation Cases]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="Bsly0YDs9U6wlm8dGlr1wgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="2CkJlpX/JUiLEJvMTy7mpAAA">
-<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = GPS Tracking of Self..., SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = GPS Tracking of Self..., SelectionInfoDisplay = Off, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="3mH05Ybjyk+b+EVqoLi83AAA">
@@ -846,12 +847,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Cwn09CH7g0WitQudvof8bwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Frequently Update Self-Isolation Information</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliable [Frequently Update Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="AmVo3k72rk6uNbtLaaZRfwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="DoOsuYJ23E2Dxw1+NML9BgAA">
-<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Frequently Update Se..., SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Frequently Update Se..., SelectionInfoDisplay = Off, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="yM1KbWrThEi84SfFYae7LAAA">
@@ -882,14 +883,14 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="I5i4p26+9ESRuHBAR0cv4gAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Secure Self-Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Secure [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="aaGuZF2620i4cHw6m3YlCgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="Vl1EXcylSUmCr7VK4QPhqQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="sDPvyjjD5UqAigVdXW/5CAAA">
@@ -920,12 +921,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="nMKYpKAynUWd9+UuH8seJQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">GP Self-Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Performance [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="/gIY5a/kGUGsR/5W7U41YAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="tF56yFFNFEWFPeqYfu+qEQAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="agZVr4sKXk2y8NvwjgpRDAAA">
@@ -956,12 +957,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="8py/I4ypgkmszevHaAMcyQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Confidentiality Self Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Confidentiality [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="Lg48Ee+po0+zJIcb968RWwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="BlGiJXXOSUahBOBlRfVm7wAA">
-<XPD:ATTR name="Text" type="string">{Type = Confidentiality, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Confidentiality, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="s1BXTB6YRkO6V14bndDvTQAA">
@@ -992,12 +993,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="cKF1JIblP0q46c8iKNDOpgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Availability Self Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Availability [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="Rd2qV69qHkiJAr9yJbGM5gAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="GS/zokcvNUq3thJGPzihnwAA">
-<XPD:ATTR name="Text" type="string">{Type = Availability, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Availability, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="0acrgbcKIUahw5atMWdywgAA">
@@ -1086,12 +1087,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="mHD+tKz0gUykegmsmd84DQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Good Space Self Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Space [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="sWbRijZ9UkGJX2M4MXnypgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="CwowibP3aUCRZCWoBhmwcAAA">
-<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Good Space, Weight = 0.2, SelectionInfoDisplay = Off, Priority = Low}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Good Space, Weight = 0.2, SelectionInfoDisplay = Off, Priority = Low, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="li6vEySOa0iU7JKbtJODIgAA">
@@ -1122,12 +1123,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="zWSZcaTD3UOCW+UH334CuQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Reliable Self Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliable [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="brhP4FcO50uAhTEbyMFJtgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="CeYmJ96tiEq67/1uWUndLAAA">
-<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Reliable, Weight = 0.2, SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Reliable, Weight = 0.2, SelectionInfoDisplay = Off, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="SxndRh1KvES1y7jjXAIECwAA">
@@ -1158,12 +1159,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="tSHJOVTJ7UqjaQZCZeI9GgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Good Response Time Self Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Response Time [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="8IMrW9XCJkeupyFeh04ZCQAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="7Y5ulcGV3keZDmbP/3iMJQAA">
-<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Good Response Time, Weight = 0.2, SelectionInfoDisplay = Off, Priority = Medium, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Good Response Time, Weight = 0.2, SelectionInfoDisplay = Off, Priority = Medium, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="whBgTsAFn0G122HlZiNvWwAA">
@@ -1249,6 +1250,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">qYB91c3OFECJPgQjNz3QKwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="ilh6ivqRtkKOG3Uy5s16WwAA">
@@ -1278,6 +1280,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">CUXaodla2UaOqgehsvwvkQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="GpBfWVxA7EyFCRxD/2e66gAA">
@@ -1336,6 +1339,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">IXxZ9MEjRkSMVeGCLB+tCAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="yWYTYKPn40Cali5LxOJpEwAA">
@@ -1368,12 +1372,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="BE14nyqH9ka34iQUzDlkigAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Advanced Compression Algorithms for Data Storage</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Space [Advanced Compression Algorithms for Data Storage]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="JDMxx72V8kShvk55VOO7ZgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="L49lK1BINke2mGTznK1VnAAA">
-<XPD:ATTR name="Text" type="string">{Topic = Advanced Compression..., Type = Good Space}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Advanced Compression..., Type = Good Space, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="voCWQXoI+0eGP0ywNLgfmwAA">
@@ -1401,6 +1405,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">b3KXJNaMEk6dQEicH6WbiAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="N3GwGiQ8nUCmfSnHM+m/HQAA">
@@ -1433,12 +1438,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="37k3gn31Qk2/zbiPv+dBhAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">100</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Indexing</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Response Time [Indexing]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="gJhNy4rmNEyIRfIAPfbmDAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="VVh2+qS7r02SLxWj2yoGoQAA">
-<XPD:ATTR name="Text" type="string">{Topic = Indexing, Type = Good Response Time}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Indexing, Type = Good Response Time, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="UNXbZMZfNkiKhyTws+im3AAA">
@@ -1469,12 +1474,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="NKrnafF57EOkzR9dixR4+AAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Minimize Packet Size</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Response Time [Minimize Packet Size]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="jEj5I2fsBUCp7IrKMcjbNwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="/SzWHYGaOkGlwe780HjvXgAA">
-<XPD:ATTR name="Text" type="string">{Topic = Minimize Packet Size, Type = Good Response Time}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Minimize Packet Size, Type = Good Response Time, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="q2HZyxH0TkG1ZFmKtQy44AAA">
@@ -1505,12 +1510,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Vp9uLmpemUqzQwjkHRj1YwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Minimize Packet Travel</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Response Time [Minimize Packet Travel]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="paKk8OC8ykKgwvBu6bMTlAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="xPz07SFVl0CM1yxExKSAkgAA">
-<XPD:ATTR name="Text" type="string">{Topic = Minimize Packet Trav..., Type = Good Response Time}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Minimize Packet Trav..., Type = Good Response Time, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="2SnjnqU6UEiUX4zqlV6JlAAA">
@@ -1538,6 +1543,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">I0cr4L1Nz0eK9odqtoLuNQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="PjFyAxe8zkCjA37NlfCaygAA">
@@ -1904,7 +1910,7 @@
 <XPD:ATTR name="ProfileName" type="string">RE</XPD:ATTR>
 <XPD:ATTR name="TagDefinitionSetName" type="string">Proposition</XPD:ATTR>
 <XPD:ATTR name="Name" type="string">Label</XPD:ATTR>
-<XPD:ATTR name="DataValue" type="string">Denied</XPD:ATTR>
+<XPD:ATTR name="DataValue" type="string">Satisficed</XPD:ATTR>
 <XPD:REF name="TaggedModel">onuFp7Wi+0m5y/MxnPEqIwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:ATTR name="#ClientDependencies" type="integer">1</XPD:ATTR>
@@ -3021,12 +3027,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="FAE9R5Wz+UKKSzhhDNOCYgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">100</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Secure Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Secure [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="XvpK04Ucb0S2VdlRcshXhAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="Yjn6MMy3q0+9nMigUxXs8AAA">
-<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Infected Patients}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Infected Patients, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="t72XQt7mOEuiWzyYlZXdwAAA">
@@ -3057,12 +3063,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="CathSZmB5UuXKUfJaCo+zwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Legality Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Legality [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="1YjnVfscf0OnZZ3vXe1//wAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="pe0d0qIOi0+j7QSTe4ftowAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Infected Patients}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Infected Patients, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="FE20ifbChECy4FkBk/PQ9AAA">
@@ -3093,12 +3099,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="MJg+Nj1me0KRyAbyZG1TtQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Fault Tolerance Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Fault Tolerance [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="hqdSqhbZNUytUl0BMgViKgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="7aWik1XFcE2l4p+qzLCT7AAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Fault Tolerance, Topic = Infected Patients, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Fault Tolerance, Topic = Infected Patients, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="nZgx6qL6eUm3CFA4Pb1VXgAA">
@@ -3138,12 +3144,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="nzr8gdzg90ifDGxwvJqKdQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">100</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Secure Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Secure [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="Xc3bTj7W7Ema3qNpNqXy4QAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="dvohjU637kqkxHToaqyC8QAA">
-<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Infected Patients}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Infected Patients, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="K4Du0y4MEkqbFPyJmDFToQAA">
@@ -3174,12 +3180,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="yWiNHA+iTEKYX380ExT/CwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Legality Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Legality [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="jLU5oXqwOkuoK69MuDjZDgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="GU1uYImMRkSFApERQiGuCAAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Infected Patients}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Infected Patients, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="zB4hAIwCKEGGf5VJ+kQtzQAA">
@@ -3210,12 +3216,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="BXweZfuTx0edEsZ8DPDSRAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Fault Tolerance Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Fault Tolerance [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="PozPpAHgIkqywWZpUpihwQAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="EAjJK/0LAk+1zPBvkkmWiwAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Fault Tolerance, Topic = Infected Patients, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Fault Tolerance, Topic = Infected Patients, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="9CkJyJBuQkWEB1YaN5nyqQAA">
@@ -3246,12 +3252,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="01fS8KiiWEisH19MLL+0UAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Availability Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Availability [of Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="w1M72FGJs0m6fHgww5QQ5AAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="J95QiULDQUa+rUqKGzjx8AAA">
-<XPD:ATTR name="Text" type="string">{Type = Availability, Topic = of Infected Patients}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Availability, Topic = of Infected Patients, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="sUVIVGbo0UGE4H/tqz3a2AAA">
@@ -3282,12 +3288,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="OGUfZgSnaUqXR2H/nLrBIwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Confidentiality Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Confidentiality [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="ovu6dOzZsU+KQkAYaOHiggAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="Bm51aT0ks02C7LzGMLiHEQAA">
-<XPD:ATTR name="Text" type="string">{Topic = Infected Patients, Type = Confidentiality, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Infected Patients, Type = Confidentiality, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="qVDFNJPaAU2345+tk+IibwAA">
@@ -3318,12 +3324,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="WTmlaLy0EU2dkfVqF8+QxQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Reliability Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliability [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="OS7Wx+kKhk2rUeh3iEmQwgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="5aJZ3jUSQUWIH4xHhTl8UwAA">
-<XPD:ATTR name="Text" type="string">{Type = Reliability, Topic = Infected Patients, Priority = Medium}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Reliability, Topic = Infected Patients, Priority = Medium, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="cM4VgZYRfUaF4S8I8KMYZwAA">
@@ -3354,12 +3360,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="NNGq6rUEi0OzB0PeX57YtAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Replication Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Replication [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="dgtfMYwn9kOy2QFuV5O/HgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="CGMQEUxJv0mb2cOXKGqRwgAA">
-<XPD:ATTR name="Text" type="string">{Topic = Infected Patients, Type = Good Replication, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Infected Patients, Type = Good Replication, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="8Q95b6pMB0mDnnUxrSgWzAAA">
@@ -3445,6 +3451,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">MjtrzqaFPEGqUawLvJRTqAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="COKcEX2c50yd2AzWN42v2wAA">
@@ -3474,6 +3481,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">g2b/0a8NIkayQc6e9lpkMAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="v2DjcJ0j3ES9CgWm47fJcgAA">
@@ -3515,12 +3523,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="jKtsveh9q02LHQhOo7xc8AAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">100</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Secure Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Secure [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="EHZEEFYF+EGrkDbKC4dUCgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="PYR0S6Gha0eXeDFU+/5fjgAA">
-<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Infected Patients}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Infected Patients, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="fZwDirVhR0iWucN9lXKm7wAA">
@@ -3551,12 +3559,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="zwVvrEg9IkeH0G86t2NahQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Legality Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Legality [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="SYr2RFVpyUGnCYVwwBTSiAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="v83TbLfJek6SGfZwN+PMjQAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Infected Patients}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Infected Patients, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="VA+KFSOJ20eZ5pU1YLIREgAA">
@@ -3587,12 +3595,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Tc66Ek94z0qJys8EQ+HVRQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Fault Tolerance Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Fault Tolerance [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="JPmk7x5ygE2Tve5eZAW+KAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="FhzqOcK//UmHJsrpvfqmrwAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Fault Tolerance, Topic = Infected Patients, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Fault Tolerance, Topic = Infected Patients, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="Fhm5o/RyTEKKbMnlc8ugDgAA">
@@ -3623,12 +3631,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="DZTPTWdPE0irulIoFxn5LAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Availability Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Availability [of Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="4g7onobuQku+oa0967McpgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="JKXVLEbrT0uAMvNZKGdKIQAA">
-<XPD:ATTR name="Text" type="string">{Type = Availability, Topic = of Infected Patients}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Availability, Topic = of Infected Patients, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="SR1yYl+bi0ysqyCrWa+UCwAA">
@@ -3659,12 +3667,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="SN22bNvEw06v7NfZw69HVwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Confidentiality Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Confidentiality [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="ExmVPm4wTkqVsJDR1Vz9SgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="HRsqfOGo0EKSRLcV2h/lwgAA">
-<XPD:ATTR name="Text" type="string">{Topic = Infected Patients, Type = Confidentiality, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Infected Patients, Type = Confidentiality, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="zZWeZVuH8kOumEZ82Xgq3gAA">
@@ -3695,12 +3703,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Ix3YopB3QECzkv1IHSdeIQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Reliability Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliability [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="3X0fSCrTikyD30/dXfc9pgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="G+xjI2M/pkSe9K7pofCQkwAA">
-<XPD:ATTR name="Text" type="string">{Type = Reliability, Topic = Infected Patients, Priority = Medium}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Reliability, Topic = Infected Patients, Priority = Medium, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="hy1v3DRWj0CpEvwdajDoLgAA">
@@ -3731,12 +3739,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="RRBGDnvUTUylXivt/ATazwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Replication Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Replication [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="HN4NtzJX80iwEv5irVpaQQAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="XVfX10lqw0K6iLPpwa5iMAAA">
-<XPD:ATTR name="Text" type="string">{Topic = Infected Patients, Type = Good Replication, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Infected Patients, Type = Good Replication, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="KiS68+dPfkOmQyB0XaLlowAA">
@@ -3825,12 +3833,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Xobb25l+W0246RCWoMINZwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Advanced Data Science Algorithms for Statistical Analysis</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliable [Advanced Data Science Algorithms for Statistical Analysis]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="zdY1lnSvFE+GONa+gmgBwwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="ymP0Nx1gfkisOpQQHqCgsAAA">
-<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Advanced Data Scienc...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Advanced Data Scienc..., Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="shoEsq0HAk+sZwOEGjC75wAA">
@@ -3861,12 +3869,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Mo5UEAXAmkWvVhdcnyF6ggAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Cases Verification With Public Health Services</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliable [Cases Verification With Public Health Services]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="F6DY1reWekicxCIH3g9XxwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="BFT14S/lNEWqnHIevnjp7QAA">
-<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Cases Verification W...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Cases Verification W..., Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="a9I9i5WwWUOm0rzWseiCbAAA">
@@ -3897,12 +3905,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="nUR4z3aTdUKfJ06XWVVZRgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Anonymized Data When Doing Data Analysis</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Confidentiality [Anonymized Data When Doing Data Analysis]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="ebQ0t+HaF0+ypFqg/PbbiQAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="zYhJEDsWEkCC3JHS8RRFkAAA">
-<XPD:ATTR name="Text" type="string">{Type = Confidentiality, Topic = Anonymized Data When...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Confidentiality, Topic = Anonymized Data When..., Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="Q9Pekt2nZUGVsuMxj4O5jgAA">
@@ -3933,12 +3941,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="90SfCyKcGEagwAVT9NoZVgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">PAXOS Algorythm for Data Replication</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Replication [PAXOS Algorythm for Data Replication]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="1ed7QeMOCEKvH3dPAegLbgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="XadW/GvF6EqVR026kglw+wAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Replication, Topic = PAXOS Algorythm for ...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Replication, Topic = PAXOS Algorythm for ..., Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="OYwMBr+AjEutk/8gzJEzegAA">
@@ -3969,12 +3977,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="1JB9c3ywcUOkMeAaFMSfdAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Data Stored in Multiple Data Sources</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Replication [Data Stored in Multiple Data Sources]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="4lL+q6U6X0mH3+eKnXo6lgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="dD/UV1yD3Uq6IuNDMku6aAAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Replication, Topic = Data Stored in Multi...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Replication, Topic = Data Stored in Multi..., Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="5qf07ElemUq7Obe2VGaVfgAA">
@@ -4005,12 +4013,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="w7DKfoyUfUeq/gcNOFONTAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Compliance With GDPR</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Legality [Compliance With GDPR]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="nFc6VDQ9WECKIeEPWhSqOgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="DUEKXhcZ4U6h34DCb7j3DwAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Compliance With GDPR}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Compliance With GDPR, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="lpzRkQZrYkqlyoTXtwSijQAA">
@@ -4038,6 +4046,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">vIOCZwSCO06NRD4GhsaTIwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="o0d3HnILZkOokf3FPHSVEgAA">
@@ -4125,6 +4134,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">YEzoEjpwbUezZuD77CsqmAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="eCz1ZGLoHkKNU5I+O6G+MgAA">
@@ -4212,6 +4222,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">t2toyIJmXkmN/r66N9x1gAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="5aF7CHQOd0+5IlQVRCSpMgAA">
@@ -4241,6 +4252,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">BjW97mpXCEeQRerOA69oUAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="UaKbmQ8USkOYIyieSR5E8wAA">
@@ -4762,7 +4774,7 @@
 <XPD:ATTR name="DataValue" type="string">Advanced Data Science Algorithms for Statistical Analysis</XPD:ATTR>
 <XPD:REF name="TaggedModel">M9hWBl0dQU65vmCWKnPFwAAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="TaggedValues[2]" type="TaggedValue" guid="fyd7U/ir8U6cu29AWmvV8gAA">
+<XPD:OBJ name="TaggedValues[2]" type="TaggedValue" guid="cQ5rqz+TiEKE1H+EUY2ADgAA">
 <XPD:ATTR name="ProfileName" type="string">RE</XPD:ATTR>
 <XPD:ATTR name="TagDefinitionSetName" type="string">Proposition</XPD:ATTR>
 <XPD:ATTR name="Name" type="string">Label</XPD:ATTR>
@@ -5280,12 +5292,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="XJn2PUyiZEWyBm0Yc1LKWAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Performance Dangerous Countries</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Performance [Dangerous Countries]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="nAyj7AMXx0+/oy6KFTi++QAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="I60324dBNUGbeViYJBcrzAAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic =  Dangerous Countries}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic =  Dangerous Countries, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="1V+IEW6JOUGEae2v2GbyigAA">
@@ -5316,12 +5328,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="pJwadoGQdU+a+wDODbDnuwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Legality Dangerous Countries</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Legality [Dangerous Countries]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="/q/141gkc0S3TROiEY+G8gAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="2IbtNRgusky8m8CIXSpZVwAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic =  Dangerous Countries}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic =  Dangerous Countries, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="5CpYq1ZSQU2676UzWitLuAAA">
@@ -5361,12 +5373,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Psi2pJMnKUeML/mQsxhotgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Performance Dangerous Countries</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Performance [Dangerous Countries]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="qeF/Tqjid0Sj9OoawtXVygAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="F13rO6g3kkiFT/ub/Li/VwAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic =  Dangerous Countries}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic =  Dangerous Countries, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="/21rsqKCykGoxwrJm7htQgAA">
@@ -5397,12 +5409,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="4CAt0wBAUEyjun0gBTz2QwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Legality Dangerous Countries</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Legality [Dangerous Countries]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="HvjmS6hXd0SjhcPiG1dM+AAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="IKlka2OVx0us5NZpqhwUAgAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic =  Dangerous Countries}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic =  Dangerous Countries, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="D2bQuktV5Ea2zoOIXzG/SgAA">
@@ -5433,12 +5445,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="dhEx6SDNwUSPh/1Izim5hQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Time Dangerous Countries</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Time [Dangerous Countries]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="afHAwSCfbkutFYmwypw8/AAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="Uu6/liRhakGamyuQHmApcwAA">
-<XPD:ATTR name="Text" type="string">{Priority = Medium, Type = Good Time, Topic = Dangerous Countries}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Priority = Medium, Type = Good Time, Topic = Dangerous Countries, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="aH2+i13U2kmAqHv2X9RqCgAA">
@@ -5469,12 +5481,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="BgO2IA2ylEKqfo8O2AdaeQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Space Dangerous Countries</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Space [Dangerous Countries]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="swORkDiKyUqASDJdo7WvPwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="cMCLBd/aIEWz3vu+p75kVgAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Space, Topic = Dangerous Countries}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Space, Topic = Dangerous Countries, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="XFeG1yR7kU+9nLYv1e82mAAA">
@@ -5572,12 +5584,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Av77eVUsCEKxIg1L6qTf2wAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Performance Dangerous Countries</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Performance [Dangerous Countries]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="sGQR1UMuUk2rj6mkTONcsQAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="yIZHR9pUQ0OUljpo22mJogAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic =  Dangerous Countries}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic =  Dangerous Countries, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="xkW4RTjK5kOS4k/n7YM6TgAA">
@@ -5608,12 +5620,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="K+fS9h3sgUGh++ozFEPbRgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Legality Dangerous Countries</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Legality [Dangerous Countries]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="6gnAMLORdEGvGyz2L01/YwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="tXz/wInGS0CLFUfqBCABBAAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic =  Dangerous Countries}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic =  Dangerous Countries, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="mnf4UOAbekOohwcfNAaPswAA">
@@ -5644,12 +5656,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="nnqeUAU7eEaL7gI3Xtuw6wAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Time Dangerous Countries</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Time [Dangerous Countries]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="mXAD6OzT4USyzEcZJx+HYAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="Tb3Tdbau+EWO9r58OcbsWQAA">
-<XPD:ATTR name="Text" type="string">{Priority = Medium, Type = Good Time, Topic = Dangerous Countries}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Priority = Medium, Type = Good Time, Topic = Dangerous Countries, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="5NTWZdfT5UinihXRqE/Q+AAA">
@@ -5680,12 +5692,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="0XqznKGyfUGYKohpkqHcmQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Space Dangerous Countries</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Space [Dangerous Countries]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="W/x0wdtiHE2ZRhdRMSUZBAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="+jS2vh8VsU+SncsHQ6AeBQAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Space, Topic = Dangerous Countries}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Space, Topic = Dangerous Countries, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="pYlKz3TmoESFaMyQuRr9IgAA">
@@ -5774,12 +5786,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="lSOk/brgQkOafjH/ddHOPQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">International Databases to Update Countries Information</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Time [International Databases to Update Countries Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="qyyScEvZ/kCWJBn+Ma6CaQAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="YfO4xBkrb0286hPaj685KAAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Time, Topic = International Databa...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Time, Topic = International Databa..., Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="yU+cMzQEW0So6ppbw7ce+wAA">
@@ -5810,12 +5822,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="7ei5jh3pu02Ryo3NyjILiwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Query External Databases for Information</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Space [Query External Databases for Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="tIkHLet+mkq8vYoegjo/xAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="lkSjXc4MoUqmkSLN4ScWAgAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Space, Topic = Query External Datab...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Space, Topic = Query External Datab..., Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="+4BlFu7DrkuuCMYDJ1c4jQAA">
@@ -5846,12 +5858,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="rnz4soCfi0C+r5CyhI+a8AAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Legal Databases for Foreign Countries Legal Issues</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Legality [Legal Databases for Foreign Countries Legal Issues]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="j/fCAw1+vEa6+Q5ba6VTnwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="cwP+Lj3JjE+/c+5VzEfPvQAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Legal Databases for ...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Legal Databases for ..., Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="ktPU/XzQdEuqGEw3Wes+VwAA">
@@ -5882,12 +5894,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="avyv8KHc+Ea6aoKhu++QJQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Authorization to Use Non-Public Databases</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Legality [Authorization to Use Non-Public Databases]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="XC6sMr6gNEG1reHddmiXmgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="Z+yGICH1rkOC6vLn5IRKnAAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Authorization to Use...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Authorization to Use..., Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="QH9EiMUe00G6KyCJQ16i7QAA">
@@ -5915,6 +5927,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">zGR9zHSjtkeMrg/Tjbnd5gAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="T7eYuGaBXU+nH4CC937WsQAA">
@@ -5944,6 +5957,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">EmzPkPR33U6HWTnlBnqVKAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="KLtuWxcYt0GBSGxsSMRf+AAA">
@@ -6606,12 +6620,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="v+G8qzHQokiQTgEA+rU8agAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Store Minimum Amount Data per Person</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Confidentiality [Store Minimum Amount Data per Person]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="B7sQq8+CCkeGA8zD9wW/TAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="4M56ac5V2EKRdxDEH13q6wAA">
-<XPD:ATTR name="Text" type="string">{Type = Confidentiality, Topic = Store Minimum Amount..., SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Confidentiality, Topic = Store Minimum Amount..., SelectionInfoDisplay = Off, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="GwrfjgxlcESwbBtusAO68AAA">
@@ -6642,12 +6656,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="DN7ceTULgE60kjsjuxuHlwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Frequently Verify Self-Isolation Information</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliable [Frequently Verify Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="pI+5UawXF06CVyG53VxHkwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="6j1vVSDy7kCLF6F3+/SJ2AAA">
-<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Frequently Verify Se..., SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Frequently Verify Se..., SelectionInfoDisplay = Off, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="y2dJXSxw/028atHqjE3kbQAA">
@@ -6678,12 +6692,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="/in8P0z7GEqBwK9EUe1JpAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">GPS Tracking of Self-Isolation Cases</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliable [GPS Tracking of Self-Isolation Cases]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="KyyFHoEjQkaybIV0Z7X5BgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="f5+z4c3Pw06Kvb5IgWJWlgAA">
-<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = GPS Tracking of Self..., SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = GPS Tracking of Self..., SelectionInfoDisplay = Off, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="QnT9KQ/qSkKuDemAvhCZZQAA">
@@ -6714,12 +6728,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="BRV3qgS4Z0Cs2gP6aZqpygAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Frequently Update Self-Isolation Information</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliable [Frequently Update Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="wcwKLdoGyE2Vfpc9+cvoNQAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="RUYXYpDLGUSMnk3L7BxI3gAA">
-<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Frequently Update Se..., SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Frequently Update Se..., SelectionInfoDisplay = Off, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="RqcU9ELFdUydc14YDM5u0AAA">
@@ -6750,14 +6764,14 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="M153owmBT0qAfBrL0u+5PwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Secure Self-Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Secure [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="Fj/1Al1i6Ei7/VlMgt2IxwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="dE5Zk/LRnU+mTy/HAN35OQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="tdJ9z4x9n0WzvNt97DP73AAA">
@@ -6788,12 +6802,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="UUEcSzo0YkWmc57oZHwMLgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">GP Self-Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Performance [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="0xAyMDRauUaHMD6MirSuIwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="Z1hAFN39RkWg02I4wm6wKAAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="RpA3sa/jrkyFyWN893Wu7AAA">
@@ -6824,12 +6838,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="tKkCFb8I10ieryL1wvH5KgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Confidentiality Self Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Confidentiality [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="46ktxk7RLU6pSarvSixUEAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="tVACPBwAlEW2Cs+nALj+PQAA">
-<XPD:ATTR name="Text" type="string">{Type = Confidentiality, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Confidentiality, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="/rO4HU9jTEuSShmgYSk7MgAA">
@@ -6860,12 +6874,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="kBOrA0r6rkK7Ckg+ccSqOgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Availability Self Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Availability [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="9Yeig238cECYTTHDoZcYHgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="6HE9iEQb4UCNVjrVBJapLAAA">
-<XPD:ATTR name="Text" type="string">{Type = Availability, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Availability, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="How4NFUz/0OwJeGVz4je4wAA">
@@ -6954,12 +6968,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="rghMWxMrZU67qszUShzfZwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Good Space Self Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Space [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="HLM7vB6370iVMjEByHQVnwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="VKA3wO6pN0i87xNVV5vN1gAA">
-<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Good Space, Weight = 0.2, SelectionInfoDisplay = Off, Priority = Low}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Good Space, Weight = 0.2, SelectionInfoDisplay = Off, Priority = Low, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="xcLo8KDRy0WDqzFqxku1nwAA">
@@ -6990,12 +7004,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="c6RIhOBgXEy08Wbk9eRTRgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Reliable Self Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliable [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="WKtVAx31nUWW9Tow1iBz5AAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="BKrF6UNmT0K5hHtPHb+TigAA">
-<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Reliable, Weight = 0.2, SelectionInfoDisplay = Off, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Reliable, Weight = 0.2, SelectionInfoDisplay = Off, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="YrmT002g/0KzrnG+NVk9SwAA">
@@ -7026,12 +7040,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="xWrdc85SbEG2yj3jWIcuYwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Good Response Time Self Isolation</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Response Time [Self-Isolation Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="Cr/TqD9thEKzhZM0y7R3vgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="9cHLCQQIFECbJfRXWJfgrgAA">
-<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Good Response Time, Weight = 0.2, SelectionInfoDisplay = Off, Priority = Medium, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Self-Isolation Infor..., Type = Good Response Time, Weight = 0.2, SelectionInfoDisplay = Off, Priority = Medium, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="/Tnre7OSzkS9arsdI2Rz+wAA">
@@ -7117,6 +7131,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">qYB91c3OFECJPgQjNz3QKwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="Moj5bjgrSk2W3E8pcq+4FAAA">
@@ -7146,6 +7161,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">CUXaodla2UaOqgehsvwvkQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="Ta33VD76KEKNhIc4tRcZ0AAA">
@@ -7204,6 +7220,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">IXxZ9MEjRkSMVeGCLB+tCAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="rukOYbOYUk61K6awtloJrQAA">
@@ -7236,12 +7253,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="SDWe/7+gLk+KfQMwmQCA3AAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Advanced Compression Algorithms for Data Storage</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Space [Advanced Compression Algorithms for Data Storage]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="MuV93yA2CUS6XmsjjfjsYwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="8ozGfvr4U0WWNTev+NjjeAAA">
-<XPD:ATTR name="Text" type="string">{Topic = Advanced Compression..., Type = Good Space}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Advanced Compression..., Type = Good Space, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="DIAv6u5EZUellxDBBw3RoAAA">
@@ -7269,6 +7286,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">b3KXJNaMEk6dQEicH6WbiAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="L91fi+xwDk2EmdelNoYHrgAA">
@@ -7301,12 +7319,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="PQ6lLjmSSkO3Kqa6uTQbYwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">100</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Indexing</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Response Time [Indexing]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="TwNBjgfgykqSoqcggtzOCwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="QuG+vsVevEOFvhPvwiBu+AAA">
-<XPD:ATTR name="Text" type="string">{Topic = Indexing, Type = Good Response Time}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Indexing, Type = Good Response Time, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="N0sXT3AQQkWr3kHS2UjTdgAA">
@@ -7337,12 +7355,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="uzf0w7HYh0iS63qToo914gAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Minimize Packet Size</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Response Time [Minimize Packet Size]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="bNjKGIZS9EGFZOOQROuAZwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="HcTHucQiSEOgw4iCA7VGJAAA">
-<XPD:ATTR name="Text" type="string">{Topic = Minimize Packet Size, Type = Good Response Time}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Minimize Packet Size, Type = Good Response Time, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="XnMW2Nfrx0aaFARPfrI8bAAA">
@@ -7373,12 +7391,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="J23UiAKoc0+8tvpuHMy+4gAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Minimize Packet Travel</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Response Time [Minimize Packet Travel]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="d3m08fA+KEq163Oq+OvgKwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="MHSTL0KLZkevKrmBJNT8YQAA">
-<XPD:ATTR name="Text" type="string">{Topic = Minimize Packet Trav..., Type = Good Response Time}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Minimize Packet Trav..., Type = Good Response Time, Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="+cXv/8UBh06KSbDNi7mOYgAA">
@@ -7406,6 +7424,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">I0cr4L1Nz0eK9odqtoLuNQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="xnTjz+vtDUe+VhEjp1V6bgAA">
@@ -7496,12 +7515,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="JqsfhyqluEiaqOtljtG9qAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">100</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Secure Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Secure [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="K2MhWy00WUOGjec7Dje9IQAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="ehJm2pfKe0+iZnBIBZEsMwAA">
-<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Infected Patients}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Secure, Topic = Infected Patients, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="CZmUAHJUEEqrAJUqzOt8uQAA">
@@ -7532,12 +7551,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="b2kkIpVsVkyLRYOUR45uZwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Legality Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Legality [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="BkNQYLCWs0q05mYtxoh3rwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="mbkM4FA8CUy9yjJ8yeFt+AAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Infected Patients}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Infected Patients, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="Go6Mmnc3TkaIIjK2h2iQrgAA">
@@ -7568,12 +7587,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="s+ErLye0FUuWdG6QNz+o8AAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Fault Tolerance Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Fault Tolerance [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="Ss/vfQTtwki2UWq8rmVq6wAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="aGtZcjCyTECmSAgFzwy0vAAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Fault Tolerance, Topic = Infected Patients, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Fault Tolerance, Topic = Infected Patients, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="y6cjYNvh8U6XG4PJAhj8DgAA">
@@ -7604,12 +7623,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="OR1yeev1vUigi+DyveXMdQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Availability Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Availability [of Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="MWJ82oC5MEyf3ulz3v+W6gAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="SBrGXY9Y3EepV4t2Y2INyAAA">
-<XPD:ATTR name="Text" type="string">{Type = Availability, Topic = of Infected Patients}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Availability, Topic = of Infected Patients, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="kSgN14Th8kmctlt1JwpSzAAA">
@@ -7640,12 +7659,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="1q2/iAr5ZECZL1SGZRp5gwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Confidentiality Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Confidentiality [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="MDdAFuniHEevXKZXs/GK7QAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="yLRJL2I2xkOOoqWmYAGyPwAA">
-<XPD:ATTR name="Text" type="string">{Topic = Infected Patients, Type = Confidentiality, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Infected Patients, Type = Confidentiality, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="agmDwdP9FUGlaYqD91FJKAAA">
@@ -7676,12 +7695,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="FmO1M4v/C0SlnGK2NjfytwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Reliability Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliability [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="vb4xHDdA2kyWwH52osMptQAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="eSWckCrufkaimizQOwQ0MQAA">
-<XPD:ATTR name="Text" type="string">{Type = Reliability, Topic = Infected Patients, Priority = Medium}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Reliability, Topic = Infected Patients, Priority = Medium, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="Axx/2GMnCUG7G6b1A4xidgAA">
@@ -7712,12 +7731,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="mwAJVCz2iU+PqX3dPINFTgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Replication Infected Patients</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Replication [Infected Patients]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="zpdH30TCi0qZjOeRl/gkRgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="YASAISZggUSYIyEHajBqugAA">
-<XPD:ATTR name="Text" type="string">{Topic = Infected Patients, Type = Good Replication, Label = Unknown}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Topic = Infected Patients, Type = Good Replication, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="39nR1JXsdEiVcbb6I2iXJgAA">
@@ -7806,12 +7825,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="QHrztYyHnkyvye2ybH2skAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Advanced Data Science Algorithms for Statistical Analysis</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliable [Advanced Data Science Algorithms for Statistical Analysis]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="o5zj1r89XEm+6G6kc27+BgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="ehyt52nXzUGW2JAxehN8XAAA">
-<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Advanced Data Scienc...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Advanced Data Scienc..., Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="o+70T6t4zkqTl+Yn2XMXjwAA">
@@ -7842,12 +7861,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Qosy4M1UMkGQiNIGoPmJTgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Cases Verification With Public Health Services</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Reliable [Cases Verification With Public Health Services]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="L4JLxRUdwEGWDykpiTf1QAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="Car5WPnhPUq3ksy10aN1OwAA">
-<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Cases Verification W...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Reliable, Topic = Cases Verification W..., Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="/T3KCRI/dkCHoV3OG/AWQwAA">
@@ -7878,12 +7897,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="uwgJIoJxOk+56fWel+cz6wAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Anonymized Data When Doing Data Analysis</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Confidentiality [Anonymized Data When Doing Data Analysis]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="gnjOiDcgXUSryMQOf1V1LwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="WXZgdVtOS0edv64Vw+vOAwAA">
-<XPD:ATTR name="Text" type="string">{Type = Confidentiality, Topic = Anonymized Data When...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Confidentiality, Topic = Anonymized Data When..., Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="h2oCt/b2aEyUUDaTprcfKAAA">
@@ -7914,12 +7933,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="g6iMumhJKUGE03+mtE/TtwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">PAXOS Algorythm for Data Replication</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Replication [PAXOS Algorythm for Data Replication]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="jJoxFf4LtEe4tXaPVutzRgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="o35SB4w5+UmCuqclVgNiDQAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Replication, Topic = PAXOS Algorythm for ...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Replication, Topic = PAXOS Algorythm for ..., Label = Denied}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="CG86ajQqHkOKW8AOoeqf6gAA">
@@ -7950,12 +7969,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="RRNRZRcgR0WoSV3uMFIVJAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Data Stored in Multiple Data Sources</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Replication [Data Stored in Multiple Data Sources]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="CvhU9amJwUuudNQy4ltVaAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="fKGHTSFsgUutLlcC6/emgwAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Replication, Topic = Data Stored in Multi...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Replication, Topic = Data Stored in Multi..., Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="WMUz/Sh2JkuVy3yUT0FCyQAA">
@@ -7986,12 +8005,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="kLrCDulL4U2LrzdzCPyaMQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Compliance With GDPR</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Legality [Compliance With GDPR]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="KpqlY87zPECpjgIVHIHMIgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="NEE9dCmDWUGTsUqUEnhpHAAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Compliance With GDPR}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Compliance With GDPR, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="OsNeDiez+kuLVAAy5ShexAAA">
@@ -8019,6 +8038,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">vIOCZwSCO06NRD4GhsaTIwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="ncIyR+BYeU6+75MTv9ytbQAA">
@@ -8106,6 +8126,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">YEzoEjpwbUezZuD77CsqmAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="T+KgEJi3dUWqAuX/pmoKLgAA">
@@ -8196,12 +8217,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="ZkdNEAC4r0GlFeQ81LFr/AAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Performance Dangerous Countries</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Performance [Dangerous Countries]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="Ia6EZbx98UqpqB4k/vYBLAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="iZ/7p+y2Z0yqxwqYLw29dAAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic =  Dangerous Countries}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Performance, Topic =  Dangerous Countries, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="Re1zVUGO80CXKYF4tVzQ4gAA">
@@ -8232,12 +8253,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="7efbyRI2LUmPemELaZhEAAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Legality Dangerous Countries</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Legality [Dangerous Countries]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="zPorjGnr0UCdDr+1n9HN6wAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="pS1nygQYjkG5pydohaNgTAAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic =  Dangerous Countries}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic =  Dangerous Countries, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="JD9MBKm7rUWlfkXBOqXuVQAA">
@@ -8268,12 +8289,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="86bavlOlAE+b80DMjCun6AAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Time Dangerous Countries</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Time [Dangerous Countries]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="Dcis50lJ4kOC3Q87Z8LaSAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="L7BkS4l3I0SXRL8m8TiiVQAA">
-<XPD:ATTR name="Text" type="string">{Priority = Medium, Type = Good Time, Topic = Dangerous Countries}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Priority = Medium, Type = Good Time, Topic = Dangerous Countries, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="VjFrG8tuHUC6hQci2/bmVQAA">
@@ -8304,12 +8325,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="GMVuK4Rdk0WUg2+mKJt5hgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Space Dangerous Countries</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Space [Dangerous Countries]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="Xh8C0XfRMEaq+09TR/YNTwAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="fN7NBOJGZUyt9PtHyKsBUwAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Space, Topic = Dangerous Countries}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Space, Topic = Dangerous Countries, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="TnP/8qzbhE6V+po9x48BLwAA">
@@ -8398,12 +8419,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="O4Eg+8EoTkqi2a9v9AM8oQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">International Databases to Update Countries Information</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Time [International Databases to Update Countries Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="FWN34aAd6U2QnbMVnWj//gAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="50wBxnpXY0+aKJ528FCP4gAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Time, Topic = International Databa...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Time, Topic = International Databa..., Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="rlIFDbDajE6ULP/+0pk7ZwAA">
@@ -8434,12 +8455,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="jNIsptUADEeCqQR3UQOyBgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Query External Databases for Information</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Space [Query External Databases for Information]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="9Jc5S9y600KlREr8tLf0ggAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="+iCZ6fQp1U65W5R5bXUEFwAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Space, Topic = Query External Datab...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Space, Topic = Query External Datab..., Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="KTChUKhFTEm+Mx4LbTNVeQAA">
@@ -8470,12 +8491,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="rEkHdnQaFU2MyC38h+eVOQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Legal Databases for Foreign Countries Legal Issues</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Legality [Legal Databases for Foreign Countries Legal Issues]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="ONnfHHYTtUeUnUBRk6J8RAAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="gLgjf07QbkCohW8F8dd7swAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Legal Databases for ...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Legal Databases for ..., Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="KwB4evy/N0+xg7CVHmmS2wAA">
@@ -8506,12 +8527,12 @@
 <XPD:OBJ name="NameLabel" type="LabelView" guid="lAU+7+MOikKn6C4Kz2YQfQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Authorization to Use Non-Public Databases</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Good Legality [Authorization to Use Non-Public Databases]</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="EDcvMWSlpkOced2HN5mQ+AAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="hWyM/XRbuE631xV5caHubAAA">
-<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Authorization to Use...}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Good Legality, Topic = Authorization to Use..., Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="ARUkqgBSwkWRZ5qm3dg8jwAA">
@@ -8539,6 +8560,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">zGR9zHSjtkeMrg/Tjbnd5gAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="LfrCQCL8lkuA0WkfenNY0QAA">
@@ -8568,6 +8590,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">EmzPkPR33U6HWTnlBnqVKAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="ZoUryQSwnEOMb1RwQHq84gAA">
@@ -8655,6 +8678,7 @@
 <XPD:ATTR name="FontColor" type="string">clRed</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">_</XPD:ATTR>
 <XPD:REF name="Model">EGE9tBSYg02RLVLOvYBVlwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="Smk5W6miX0u+6lE6puae2QAA">
@@ -8684,6 +8708,7 @@
 <XPD:ATTR name="FontColor" type="string">clRed</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">_</XPD:ATTR>
 <XPD:REF name="Model">+F3MivYDr0Sa95thisTLTwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="r2snf184b0Si5VTEaP6D3QAA">
@@ -8713,6 +8738,7 @@
 <XPD:ATTR name="FontColor" type="string">clRed</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">_</XPD:ATTR>
 <XPD:REF name="Model">8ss2IQdMjEuw8fKrZnqDowAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="hoqXJ3f4vUCmtuv3uuZkqQAA">
@@ -8742,6 +8768,7 @@
 <XPD:ATTR name="FontColor" type="string">clRed</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">_</XPD:ATTR>
 <XPD:REF name="Model">rPdL1v7lH0qVNBxeNmPodAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="knnIudMhaU6DT/QpulM/PgAA">
@@ -8771,6 +8798,7 @@
 <XPD:ATTR name="FontColor" type="string">clRed</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">_</XPD:ATTR>
 <XPD:REF name="Model">U5Gfw9Kwd0uVQ5S1ryXwsgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="B0A1BHHQ/0KHZXwWYPB6eQAA">
@@ -8800,6 +8828,7 @@
 <XPD:ATTR name="FontColor" type="string">clRed</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">_</XPD:ATTR>
 <XPD:REF name="Model">1bsDeqdaqk+bFLRWNHerbwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="b3jcqIMZBUORFEyBeTDf2AAA">
@@ -8829,6 +8858,7 @@
 <XPD:ATTR name="FontColor" type="string">clRed</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">_</XPD:ATTR>
 <XPD:REF name="Model">jcpnG9lnMkul+axXr3PMhwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="Q7wD3mYx2Ue+/BKXcXwH2wAA">
@@ -8858,6 +8888,7 @@
 <XPD:ATTR name="FontColor" type="string">clRed</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">_</XPD:ATTR>
 <XPD:REF name="Model">WJ3sFdqf10mUCCPAnA5mEQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="o3gtnY7ZV0WvXd9SslIldQAA">
@@ -8916,6 +8947,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">stIYFiJ0mEOFVCeBZ1ExCgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="cWIMMy06mEalfDVNawMYeQAA">
@@ -8945,6 +8977,7 @@
 <XPD:ATTR name="FontColor" type="string">clGreen</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">+</XPD:ATTR>
 <XPD:REF name="Model">2HtJKMICt0KeaBKOr0M7igAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="xvo6K0gLn0mB7QOQ7uZJ9wAA">
@@ -9530,7 +9563,7 @@
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="3HdYLbA4xUCY5AR/X0u4SgAA">
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="NCkuSGFtmkOaRCmob37QGgAA">
-<XPD:ATTR name="Text" type="string">{Type = Availability, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Denied}</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">{Type = Availability, Topic = Self-Isolation Infor..., Weight = 0.2, SelectionInfoDisplay = Off, Label = Satisficed}</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="L06ghiKld0eomQx2ZTTOawAA">
